@@ -1,0 +1,2501 @@
+household_key,Recency,Frequency,Monetary,Cluster,Segment
+1,6,85,4249.6,0,Champions
+2,44,45,1945.34,1,Valuable but Cooling
+3,9,47,2592.02,3,Recent Regulars
+4,85,30,1197.6100000000001,1,Valuable but Cooling
+5,9,40,779.0600000000001,3,Recent Regulars
+6,5,249,5992.61,0,Champions
+7,3,59,3369.65,3,Recent Regulars
+8,6,113,5506.62,0,Champions
+9,23,20,796.32,2,At-Risk Customers
+10,27,9,234.34,2,At-Risk Customers
+11,300,5,33.39,2,At-Risk Customers
+12,208,7,266.21,2,At-Risk Customers
+13,3,275,12882.55,0,Champions
+14,8,136,2742.11,0,Champions
+15,7,55,970.03,3,Recent Regulars
+16,22,98,1511.02,1,Valuable but Cooling
+17,23,124,5063.13,1,Valuable but Cooling
+18,1,161,7057.28,0,Champions
+19,1,421,11280.02,0,Champions
+20,1,380,7466.11,0,Champions
+21,30,27,869.11,1,Valuable but Cooling
+22,1,135,6188.85,0,Champions
+23,1,110,3155.58,0,Champions
+24,3,74,1911.1100000000001,3,Recent Regulars
+25,7,94,3109.77,0,Champions
+26,7,113,1937.39,3,Recent Regulars
+27,1,405,5717.94,0,Champions
+28,10,125,2116.62,1,Valuable but Cooling
+29,3,69,1339.64,3,Recent Regulars
+30,1,28,619.8000000000001,3,Recent Regulars
+31,2,69,4142.03,0,Champions
+32,1,116,3377.67,0,Champions
+33,1,52,1200.74,3,Recent Regulars
+34,3,36,406.38,3,Recent Regulars
+35,5,60,1118.51,3,Recent Regulars
+36,4,221,4896.5,0,Champions
+37,2,62,2974.16,3,Recent Regulars
+38,161,27,703.63,2,At-Risk Customers
+39,27,64,5017.87,1,Valuable but Cooling
+40,2,400,12881.74,0,Champions
+41,5,73,3107.13,3,Recent Regulars
+42,2,89,1970.11,3,Recent Regulars
+43,2,106,878.74,3,Recent Regulars
+44,84,31,877.76,1,Valuable but Cooling
+45,125,57,805.09,1,Valuable but Cooling
+46,1,137,8413.460000000001,0,Champions
+47,4,111,2329.13,0,Champions
+48,3,50,1167.33,3,Recent Regulars
+49,10,121,6431.6900000000005,0,Champions
+50,37,15,351.39,2,At-Risk Customers
+51,2,83,3046.31,0,Champions
+52,1,139,5486.28,0,Champions
+53,6,56,1960.76,3,Recent Regulars
+54,217,11,103.09,2,At-Risk Customers
+55,9,141,1072.79,3,Recent Regulars
+56,3,201,6652.31,0,Champions
+57,3,193,3100.03,0,Champions
+58,1,268,10308.83,0,Champions
+59,28,44,1656.95,1,Valuable but Cooling
+60,15,8,400.94,2,At-Risk Customers
+61,17,11,183.8,2,At-Risk Customers
+62,43,33,357.24,2,At-Risk Customers
+63,2,33,589.6,3,Recent Regulars
+64,1,262,3914.76,0,Champions
+65,41,122,2031.45,1,Valuable but Cooling
+66,27,29,395.95,2,At-Risk Customers
+67,3,226,9388.65,0,Champions
+68,6,552,4921.08,0,Champions
+69,1,183,5703.59,0,Champions
+70,7,32,76.4,2,At-Risk Customers
+71,1,90,3336.28,0,Champions
+72,18,107,6457.64,1,Valuable but Cooling
+73,50,164,2863.63,1,Valuable but Cooling
+74,56,130,2028.39,1,Valuable but Cooling
+75,3,64,1154.4,3,Recent Regulars
+76,1,16,315.94,3,Recent Regulars
+77,2,87,6200.25,0,Champions
+78,3,209,2505.14,0,Champions
+79,4,151,3901.97,0,Champions
+80,18,94,2976.29,1,Valuable but Cooling
+81,6,149,5464.27,0,Champions
+82,4,51,566.51,3,Recent Regulars
+83,2,110,1183.74,3,Recent Regulars
+84,16,52,1206.79,1,Valuable but Cooling
+85,2,281,4692.44,0,Champions
+86,39,46,4016.94,1,Valuable but Cooling
+87,5,45,1199.3,3,Recent Regulars
+88,4,229,11494.49,0,Champions
+89,74,11,177.56,2,At-Risk Customers
+90,35,10,490.40999999999997,2,At-Risk Customers
+91,2,181,2899.66,0,Champions
+92,7,56,1587.38,3,Recent Regulars
+93,161,106,3216.69,1,Valuable but Cooling
+94,14,36,441.14,3,Recent Regulars
+95,3,306,6458.27,0,Champions
+96,4,59,1182.43,3,Recent Regulars
+97,6,180,5323.6,0,Champions
+98,2,205,2545.3,0,Champions
+99,3,253,6869.05,0,Champions
+100,21,32,2289.12,1,Valuable but Cooling
+101,4,239,6599.14,0,Champions
+102,533,8,302.34,2,At-Risk Customers
+103,3,50,534.76,3,Recent Regulars
+104,1,126,6379.63,0,Champions
+105,2,169,4566.04,0,Champions
+106,7,67,2013.91,3,Recent Regulars
+107,30,41,1222.83,1,Valuable but Cooling
+108,23,62,2669.66,1,Valuable but Cooling
+109,4,104,3499.82,0,Champions
+110,1,184,3460.07,0,Champions
+111,25,51,1498.16,1,Valuable but Cooling
+112,14,80,1341.65,1,Valuable but Cooling
+113,3,222,15241.57,0,Champions
+114,4,88,3314.23,0,Champions
+115,4,201,13145.49,0,Champions
+116,2,81,638.87,3,Recent Regulars
+117,1,94,2554.91,0,Champions
+118,5,90,4524.71,0,Champions
+119,3,62,2585.77,3,Recent Regulars
+120,59,19,242.32,2,At-Risk Customers
+121,43,111,2221.08,1,Valuable but Cooling
+122,41,132,2347.68,1,Valuable but Cooling
+123,21,174,3218.65,1,Valuable but Cooling
+124,1,61,679.0600000000001,3,Recent Regulars
+125,8,358,10461.55,0,Champions
+126,13,29,853.45,3,Recent Regulars
+127,1,191,4556.08,0,Champions
+128,1,41,1381.08,3,Recent Regulars
+129,22,40,474.73,1,Valuable but Cooling
+130,374,20,511.62,2,At-Risk Customers
+131,3,354,6085.05,0,Champions
+132,7,98,2875.2400000000002,0,Champions
+133,6,75,3792.61,0,Champions
+134,3,86,5512.1900000000005,0,Champions
+135,1,74,715.25,3,Recent Regulars
+136,18,77,2802.32,1,Valuable but Cooling
+137,86,38,1048.42,1,Valuable but Cooling
+138,4,67,3511.59,3,Recent Regulars
+139,2,83,3033.38,0,Champions
+140,20,140,1716.8400000000001,1,Valuable but Cooling
+141,4,51,448.34000000000003,3,Recent Regulars
+142,2,176,2324.19,0,Champions
+143,2,406,6501.43,0,Champions
+144,63,88,2126.31,1,Valuable but Cooling
+145,8,58,1465.64,3,Recent Regulars
+146,7,41,839.97,3,Recent Regulars
+147,17,36,1485.16,1,Valuable but Cooling
+148,13,55,1229.21,1,Valuable but Cooling
+149,61,210,11916.43,1,Valuable but Cooling
+150,104,6,230.35,2,At-Risk Customers
+151,6,49,1209.2,3,Recent Regulars
+152,16,37,1438.44,1,Valuable but Cooling
+153,10,92,1547.17,3,Recent Regulars
+154,75,30,867.1800000000001,1,Valuable but Cooling
+155,7,52,2095.6,3,Recent Regulars
+156,2,580,5197.63,0,Champions
+157,3,172,2748.7000000000003,0,Champions
+158,8,179,1744.6,0,Champions
+159,15,86,2141.87,1,Valuable but Cooling
+160,9,57,1535.09,3,Recent Regulars
+161,2,265,6068.18,0,Champions
+162,1,71,3037.54,3,Recent Regulars
+163,58,17,270.02,2,At-Risk Customers
+164,4,115,4240.74,0,Champions
+165,2,174,2980.43,0,Champions
+166,6,122,3059.69,0,Champions
+167,3,20,1264.22,3,Recent Regulars
+168,12,37,510.8,3,Recent Regulars
+169,37,24,255.58,2,At-Risk Customers
+170,19,45,2021.06,1,Valuable but Cooling
+171,11,25,727.31,3,Recent Regulars
+172,3,159,1769.3700000000001,0,Champions
+173,318,10,234.97,2,At-Risk Customers
+174,43,27,1207.4,1,Valuable but Cooling
+175,57,51,1148.52,1,Valuable but Cooling
+176,101,23,785.79,2,At-Risk Customers
+177,20,50,1089.68,1,Valuable but Cooling
+178,1,119,1996.1100000000001,0,Champions
+179,190,38,620.56,2,At-Risk Customers
+180,16,68,2103.4,1,Valuable but Cooling
+181,120,39,1665.82,1,Valuable but Cooling
+182,56,36,1159.84,1,Valuable but Cooling
+183,38,135,1558.67,1,Valuable but Cooling
+184,1,257,7060.85,0,Champions
+185,7,68,2132.62,3,Recent Regulars
+186,6,3,59.519999999999996,2,At-Risk Customers
+187,7,59,695.0,3,Recent Regulars
+188,16,43,1847.6200000000001,1,Valuable but Cooling
+189,20,38,801.99,1,Valuable but Cooling
+190,43,23,696.28,2,At-Risk Customers
+191,4,34,552.1,3,Recent Regulars
+192,2,95,3762.78,0,Champions
+193,18,134,4809.66,1,Valuable but Cooling
+194,2,73,1882.81,3,Recent Regulars
+195,1,91,4166.72,0,Champions
+196,1,183,5237.01,0,Champions
+197,2,55,1929.23,3,Recent Regulars
+198,3,458,8636.43,0,Champions
+199,11,54,666.97,3,Recent Regulars
+200,2,79,1166.63,3,Recent Regulars
+201,8,48,1430.17,3,Recent Regulars
+202,16,36,964.88,1,Valuable but Cooling
+203,2,42,907.53,3,Recent Regulars
+204,6,56,925.22,3,Recent Regulars
+205,4,106,3748.64,0,Champions
+206,57,15,386.0,2,At-Risk Customers
+207,59,21,995.72,2,At-Risk Customers
+208,11,139,4148.74,0,Champions
+209,2,196,6762.31,0,Champions
+210,4,147,3765.01,0,Champions
+211,2,110,2244.06,0,Champions
+212,15,109,3047.17,1,Valuable but Cooling
+213,37,9,605.5,2,At-Risk Customers
+214,8,86,2646.11,3,Recent Regulars
+215,1,142,1665.16,0,Champions
+216,1,120,2619.31,0,Champions
+217,21,64,2425.32,1,Valuable but Cooling
+218,1,164,9208.32,0,Champions
+219,3,228,11880.66,0,Champions
+220,33,91,2521.44,1,Valuable but Cooling
+221,17,79,2864.8,1,Valuable but Cooling
+222,3,130,5893.4,0,Champions
+223,14,118,2738.38,1,Valuable but Cooling
+224,6,56,1592.31,3,Recent Regulars
+225,38,44,729.82,1,Valuable but Cooling
+226,44,50,1205.06,1,Valuable but Cooling
+227,7,135,1378.6,3,Recent Regulars
+228,5,87,2397.81,3,Recent Regulars
+229,20,40,993.39,1,Valuable but Cooling
+230,1,167,4496.32,0,Champions
+231,259,9,321.93,2,At-Risk Customers
+232,40,626,12619.45,0,Champions
+233,16,15,636.46,2,At-Risk Customers
+234,16,19,260.64,2,At-Risk Customers
+235,4,200,12139.89,0,Champions
+236,4,46,1578.78,3,Recent Regulars
+237,58,6,547.09,2,At-Risk Customers
+238,60,27,692.65,2,At-Risk Customers
+239,1,264,4551.08,0,Champions
+240,8,31,364.61,3,Recent Regulars
+241,40,16,199.73,2,At-Risk Customers
+242,1,87,5219.4,0,Champions
+243,2,250,8060.52,0,Champions
+244,35,41,1695.95,1,Valuable but Cooling
+245,28,48,1396.45,1,Valuable but Cooling
+246,20,47,847.25,1,Valuable but Cooling
+247,8,58,1243.06,3,Recent Regulars
+248,8,57,5918.03,0,Champions
+249,8,137,2764.48,0,Champions
+250,6,121,5966.09,0,Champions
+251,9,83,2266.01,3,Recent Regulars
+252,47,9,93.78,2,At-Risk Customers
+253,2,382,10909.32,0,Champions
+254,4,43,442.14,3,Recent Regulars
+255,15,18,672.09,2,At-Risk Customers
+256,1,124,9739.99,0,Champions
+257,14,120,2689.34,1,Valuable but Cooling
+258,2,211,2576.33,0,Champions
+259,18,54,1158.33,1,Valuable but Cooling
+260,13,30,425.04,2,At-Risk Customers
+261,62,44,1240.87,1,Valuable but Cooling
+262,15,215,4790.47,0,Champions
+263,4,325,5859.25,0,Champions
+264,32,61,1782.07,1,Valuable but Cooling
+265,2,53,1877.21,3,Recent Regulars
+266,15,59,3128.23,1,Valuable but Cooling
+267,37,25,381.41,2,At-Risk Customers
+268,36,30,797.29,1,Valuable but Cooling
+269,5,84,1764.41,3,Recent Regulars
+270,4,39,913.46,3,Recent Regulars
+271,8,98,1360.02,3,Recent Regulars
+272,255,7,398.84999999999997,2,At-Risk Customers
+273,2,127,2496.86,0,Champions
+274,38,15,119.07000000000001,2,At-Risk Customers
+275,1,320,6273.67,0,Champions
+276,3,172,5757.71,0,Champions
+277,18,31,748.55,1,Valuable but Cooling
+278,6,84,2051.56,3,Recent Regulars
+279,57,51,1801.42,1,Valuable but Cooling
+280,4,105,2374.86,3,Recent Regulars
+281,6,79,1487.48,3,Recent Regulars
+282,1,110,4131.42,0,Champions
+283,12,78,5951.03,0,Champions
+284,7,21,534.98,3,Recent Regulars
+285,2,199,4219.04,0,Champions
+286,1,41,1245.24,3,Recent Regulars
+287,3,271,3228.53,0,Champions
+288,3,92,3114.02,0,Champions
+289,14,182,5968.87,0,Champions
+290,2,286,5520.34,0,Champions
+291,24,61,2472.99,1,Valuable but Cooling
+292,8,82,970.0699999999999,3,Recent Regulars
+293,18,108,3956.66,1,Valuable but Cooling
+294,2,268,5346.09,0,Champions
+295,1,5,149.31,2,At-Risk Customers
+296,15,12,149.25,2,At-Risk Customers
+297,14,114,3529.07,1,Valuable but Cooling
+298,420,7,224.86,2,At-Risk Customers
+299,2,11,242.24,3,Recent Regulars
+300,27,106,4958.13,1,Valuable but Cooling
+301,1,81,7206.88,0,Champions
+302,21,95,1797.03,1,Valuable but Cooling
+303,1,199,4852.17,0,Champions
+304,1,304,8579.78,0,Champions
+305,3,141,3793.17,0,Champions
+306,1,183,5579.47,0,Champions
+307,2,413,2577.03,0,Champions
+308,2,83,2465.26,3,Recent Regulars
+309,88,21,2319.59,1,Valuable but Cooling
+310,6,8,184.02,2,At-Risk Customers
+311,3,50,1350.13,3,Recent Regulars
+312,16,40,2508.1,1,Valuable but Cooling
+313,626,4,92.53999999999999,2,At-Risk Customers
+314,5,41,3004.01,3,Recent Regulars
+315,85,11,181.64000000000001,2,At-Risk Customers
+316,1,53,1037.78,3,Recent Regulars
+317,2,61,6041.21,0,Champions
+318,1,92,1238.75,3,Recent Regulars
+319,22,109,3751.7,1,Valuable but Cooling
+320,23,19,497.40999999999997,2,At-Risk Customers
+321,22,106,5846.57,1,Valuable but Cooling
+322,4,71,2416.88,3,Recent Regulars
+323,1,14,156.99,3,Recent Regulars
+324,1,150,8509.82,0,Champions
+325,14,74,2815.9900000000002,1,Valuable but Cooling
+326,1,26,733.72,3,Recent Regulars
+327,41,27,226.71,2,At-Risk Customers
+328,4,237,17300.13,0,Champions
+329,6,146,3026.71,0,Champions
+330,26,188,1676.08,1,Valuable but Cooling
+331,21,65,1272.75,1,Valuable but Cooling
+332,5,118,5514.52,0,Champions
+333,34,38,1247.46,1,Valuable but Cooling
+334,1,463,4741.61,0,Champions
+335,6,147,2822.18,0,Champions
+336,25,120,3083.75,1,Valuable but Cooling
+337,13,61,914.44,1,Valuable but Cooling
+338,3,153,2690.9700000000003,0,Champions
+339,16,67,1662.77,1,Valuable but Cooling
+340,85,29,1057.56,1,Valuable but Cooling
+341,75,30,387.31,2,At-Risk Customers
+342,9,48,2116.28,3,Recent Regulars
+343,7,67,1648.79,3,Recent Regulars
+344,1,48,2210.41,3,Recent Regulars
+345,1,181,5695.13,0,Champions
+346,6,124,5347.41,0,Champions
+347,43,15,540.76,2,At-Risk Customers
+348,3,126,2960.83,0,Champions
+349,6,34,869.16,3,Recent Regulars
+350,2,103,3079.15,0,Champions
+351,3,296,7643.68,0,Champions
+352,18,6,178.7,2,At-Risk Customers
+353,12,125,3791.7000000000003,0,Champions
+354,3,157,8602.72,0,Champions
+355,341,7,340.34000000000003,2,At-Risk Customers
+356,5,234,2827.83,0,Champions
+357,16,22,1699.17,1,Valuable but Cooling
+358,1,370,12720.02,0,Champions
+359,658,2,172.85,2,At-Risk Customers
+360,2,37,447.6,3,Recent Regulars
+361,1,217,8722.21,0,Champions
+362,6,91,2967.31,3,Recent Regulars
+363,131,4,52.4,2,At-Risk Customers
+364,7,86,2562.92,3,Recent Regulars
+365,15,169,7043.38,0,Champions
+366,37,48,615.78,1,Valuable but Cooling
+367,4,108,6906.29,0,Champions
+368,19,53,1345.46,1,Valuable but Cooling
+369,3,34,1034.95,3,Recent Regulars
+370,156,132,3379.75,1,Valuable but Cooling
+371,1,159,15698.39,0,Champions
+372,216,10,439.42,2,At-Risk Customers
+373,4,13,96.91,2,At-Risk Customers
+374,7,162,7082.61,0,Champions
+375,16,24,203.69,2,At-Risk Customers
+376,2,493,4714.62,0,Champions
+377,1,133,3166.45,0,Champions
+378,4,322,4689.38,0,Champions
+379,5,2,55.64,2,At-Risk Customers
+380,1,129,7717.1900000000005,0,Champions
+381,13,93,3097.54,1,Valuable but Cooling
+382,37,34,692.2,1,Valuable but Cooling
+383,19,150,5736.29,0,Champions
+384,6,80,3906.75,0,Champions
+385,11,41,2923.12,1,Valuable but Cooling
+386,2,280,4639.59,0,Champions
+387,8,131,5670.35,0,Champions
+388,4,58,1286.54,3,Recent Regulars
+389,2,268,14777.960000000001,0,Champions
+390,3,108,1803.52,3,Recent Regulars
+391,99,49,1410.84,1,Valuable but Cooling
+392,3,104,11442.22,0,Champions
+393,1,180,3877.02,0,Champions
+394,2,65,1565.89,3,Recent Regulars
+395,2,68,872.91,3,Recent Regulars
+396,7,107,1738.95,3,Recent Regulars
+397,6,248,6136.04,0,Champions
+398,11,125,2091.6,1,Valuable but Cooling
+399,49,16,978.48,2,At-Risk Customers
+400,1,310,18382.420000000002,0,Champions
+401,6,96,2537.58,3,Recent Regulars
+402,7,80,2230.54,3,Recent Regulars
+403,70,46,907.02,1,Valuable but Cooling
+404,3,240,6106.63,0,Champions
+405,6,98,3650.4700000000003,0,Champions
+406,1,44,1776.65,3,Recent Regulars
+407,2,51,676.39,3,Recent Regulars
+408,14,56,2447.7400000000002,1,Valuable but Cooling
+409,3,134,4403.9800000000005,0,Champions
+410,1,129,1144.33,3,Recent Regulars
+411,7,157,6675.12,0,Champions
+412,1,109,2406.87,0,Champions
+413,10,282,5959.2300000000005,0,Champions
+414,8,152,2485.55,0,Champions
+415,18,15,510.63,2,At-Risk Customers
+416,137,29,2175.49,1,Valuable but Cooling
+417,9,83,3007.36,3,Recent Regulars
+418,1,256,6952.96,0,Champions
+419,71,46,1684.81,1,Valuable but Cooling
+420,1,99,2130.58,3,Recent Regulars
+421,7,193,5896.07,0,Champions
+422,1,20,969.0699999999999,3,Recent Regulars
+423,123,14,220.85,2,At-Risk Customers
+424,25,24,2439.49,1,Valuable but Cooling
+425,2,151,5542.86,0,Champions
+426,2,227,7808.85,0,Champions
+427,2,53,1072.01,3,Recent Regulars
+428,19,95,3359.18,1,Valuable but Cooling
+429,3,43,539.39,3,Recent Regulars
+430,6,107,2354.85,3,Recent Regulars
+431,2,36,530.6700000000001,3,Recent Regulars
+432,1,257,3479.05,0,Champions
+433,16,76,949.82,1,Valuable but Cooling
+434,4,117,3778.75,0,Champions
+435,1,93,1747.84,3,Recent Regulars
+436,15,30,2318.74,1,Valuable but Cooling
+437,4,90,5762.08,0,Champions
+438,8,66,4368.32,3,Recent Regulars
+439,1,38,568.21,3,Recent Regulars
+440,223,6,83.88,2,At-Risk Customers
+441,3,76,2368.05,3,Recent Regulars
+442,1,214,3079.17,0,Champions
+443,1,101,2620.41,0,Champions
+444,141,44,1261.32,1,Valuable but Cooling
+445,76,232,2688.41,1,Valuable but Cooling
+446,10,30,212.05,2,At-Risk Customers
+447,3,136,1670.44,3,Recent Regulars
+448,6,44,490.38,3,Recent Regulars
+449,7,34,827.44,3,Recent Regulars
+450,17,65,1540.45,1,Valuable but Cooling
+451,1,158,2374.78,0,Champions
+452,21,26,782.99,1,Valuable but Cooling
+453,3,34,742.95,3,Recent Regulars
+454,2,356,8177.96,0,Champions
+455,5,25,1250.4,3,Recent Regulars
+456,11,94,6288.88,0,Champions
+457,18,77,718.0,1,Valuable but Cooling
+458,3,127,1616.85,3,Recent Regulars
+459,8,67,1189.09,3,Recent Regulars
+460,5,113,754.3,3,Recent Regulars
+461,28,39,661.3000000000001,1,Valuable but Cooling
+462,6,97,1508.13,3,Recent Regulars
+463,1,586,5774.46,0,Champions
+464,3,171,3425.29,0,Champions
+465,16,44,382.55,3,Recent Regulars
+466,42,17,423.32,2,At-Risk Customers
+467,6,145,2638.01,0,Champions
+468,1,332,5791.9400000000005,0,Champions
+469,14,164,7666.71,0,Champions
+470,5,156,2300.5,0,Champions
+471,2,51,1519.22,3,Recent Regulars
+472,49,94,8240.86,1,Valuable but Cooling
+473,3,69,3203.71,3,Recent Regulars
+474,1,36,2101.31,3,Recent Regulars
+475,3,41,1520.72,3,Recent Regulars
+476,67,29,1550.52,1,Valuable but Cooling
+477,18,65,812.28,1,Valuable but Cooling
+478,36,20,286.02,2,At-Risk Customers
+479,8,184,1759.65,0,Champions
+480,39,90,3631.85,1,Valuable but Cooling
+481,27,49,2044.67,1,Valuable but Cooling
+482,2,61,1848.52,3,Recent Regulars
+483,2,98,2705.04,0,Champions
+484,6,137,2947.07,0,Champions
+485,2,160,5368.22,0,Champions
+486,18,29,921.84,1,Valuable but Cooling
+487,43,9,133.68,2,At-Risk Customers
+488,51,20,406.96000000000004,2,At-Risk Customers
+489,1,211,5866.06,0,Champions
+490,20,80,3680.37,1,Valuable but Cooling
+491,3,124,4832.12,0,Champions
+492,79,117,7060.42,1,Valuable but Cooling
+493,4,196,4907.81,0,Champions
+494,618,1,8.17,2,At-Risk Customers
+495,30,73,3044.67,1,Valuable but Cooling
+496,60,13,648.4000000000001,2,At-Risk Customers
+497,9,62,764.2,3,Recent Regulars
+498,2,58,904.18,3,Recent Regulars
+499,168,70,753.36,1,Valuable but Cooling
+500,259,5,84.82,2,At-Risk Customers
+501,17,22,473.63,2,At-Risk Customers
+502,10,56,2297.84,3,Recent Regulars
+503,2,151,4710.88,0,Champions
+504,92,7,516.3399999999999,2,At-Risk Customers
+505,8,18,188.54,2,At-Risk Customers
+506,2,32,1254.17,3,Recent Regulars
+507,20,66,1450.44,1,Valuable but Cooling
+508,20,55,1190.51,1,Valuable but Cooling
+509,145,16,277.14,2,At-Risk Customers
+510,5,345,7868.27,0,Champions
+511,1,372,5404.81,0,Champions
+512,6,25,1113.04,3,Recent Regulars
+513,7,161,12013.81,0,Champions
+514,13,65,2339.27,1,Valuable but Cooling
+515,2,47,1824.73,3,Recent Regulars
+516,6,17,295.23,2,At-Risk Customers
+517,8,105,3741.34,0,Champions
+518,6,152,4795.03,0,Champions
+519,53,32,809.18,1,Valuable but Cooling
+520,1,112,2066.1,0,Champions
+521,18,53,858.8,1,Valuable but Cooling
+522,221,2,29.340000000000003,2,At-Risk Customers
+523,2,277,5689.6,0,Champions
+524,18,72,1972.03,1,Valuable but Cooling
+525,28,40,877.16,1,Valuable but Cooling
+526,5,183,4567.57,0,Champions
+527,4,129,3573.02,0,Champions
+528,7,17,373.83,2,At-Risk Customers
+529,19,56,1828.64,1,Valuable but Cooling
+530,21,53,1473.47,1,Valuable but Cooling
+531,1,40,1053.7,3,Recent Regulars
+532,63,23,401.88,2,At-Risk Customers
+533,20,64,2785.87,1,Valuable but Cooling
+534,3,464,1314.74,0,Champions
+535,80,34,1292.15,1,Valuable but Cooling
+536,3,87,1549.8799999999999,3,Recent Regulars
+537,38,44,1410.25,1,Valuable but Cooling
+538,8,69,4379.47,0,Champions
+539,1,63,1257.16,3,Recent Regulars
+540,5,93,3266.13,0,Champions
+541,21,47,1784.19,1,Valuable but Cooling
+542,20,123,2310.42,1,Valuable but Cooling
+543,1,103,3695.86,0,Champions
+544,28,127,1593.1000000000001,1,Valuable but Cooling
+545,4,56,2644.78,3,Recent Regulars
+546,79,121,3319.62,1,Valuable but Cooling
+547,7,55,1661.26,3,Recent Regulars
+548,28,93,4247.63,1,Valuable but Cooling
+549,2,98,2299.0,3,Recent Regulars
+550,1,39,854.9100000000001,3,Recent Regulars
+551,13,52,853.65,3,Recent Regulars
+552,8,44,2286.18,3,Recent Regulars
+553,1,265,7247.41,0,Champions
+554,17,21,1515.8300000000002,1,Valuable but Cooling
+555,111,21,561.03,2,At-Risk Customers
+556,44,15,680.12,2,At-Risk Customers
+557,29,29,718.46,1,Valuable but Cooling
+558,8,115,2426.35,0,Champions
+559,223,26,249.34,2,At-Risk Customers
+560,1,325,7277.26,0,Champions
+561,11,26,1404.3600000000001,3,Recent Regulars
+562,17,78,3167.79,1,Valuable but Cooling
+563,5,71,2463.44,3,Recent Regulars
+564,3,52,842.45,3,Recent Regulars
+565,5,21,498.06,3,Recent Regulars
+566,1,146,1215.49,3,Recent Regulars
+567,1,254,3134.5,0,Champions
+568,2,180,8608.8,0,Champions
+569,2,102,6744.6,0,Champions
+570,1,35,1397.61,3,Recent Regulars
+571,107,16,1111.16,2,At-Risk Customers
+572,196,45,903.15,1,Valuable but Cooling
+573,16,101,3098.85,1,Valuable but Cooling
+574,1,120,6243.71,0,Champions
+575,1,356,11764.98,0,Champions
+576,33,167,3747.62,1,Valuable but Cooling
+577,5,38,4372.15,3,Recent Regulars
+578,8,117,2990.34,0,Champions
+579,7,23,432.76,3,Recent Regulars
+580,6,98,1330.45,3,Recent Regulars
+581,12,146,5053.44,0,Champions
+582,3,141,5132.74,0,Champions
+583,22,156,3063.34,1,Valuable but Cooling
+584,177,56,1096.3,1,Valuable but Cooling
+585,22,42,802.42,1,Valuable but Cooling
+586,1,211,5809.09,0,Champions
+587,1,27,246.93,3,Recent Regulars
+588,2,261,9466.06,0,Champions
+589,20,17,295.91999999999996,2,At-Risk Customers
+590,4,134,3335.91,0,Champions
+591,1,324,13505.86,0,Champions
+592,54,34,654.55,2,At-Risk Customers
+593,21,57,646.4,1,Valuable but Cooling
+594,7,103,2413.39,3,Recent Regulars
+595,3,146,2357.46,0,Champions
+596,1,113,2996.37,0,Champions
+597,4,99,3822.5099999999998,0,Champions
+598,2,213,3332.95,0,Champions
+599,68,5,357.78,2,At-Risk Customers
+600,1,166,5351.02,0,Champions
+601,2,78,5231.45,0,Champions
+602,35,53,1847.68,1,Valuable but Cooling
+603,2,180,3207.5,0,Champions
+604,1,56,2311.65,3,Recent Regulars
+605,4,128,5740.58,0,Champions
+606,4,97,3323.12,0,Champions
+607,6,211,3186.73,0,Champions
+608,1,217,5139.13,0,Champions
+609,1,161,1644.45,0,Champions
+610,36,24,571.0600000000001,2,At-Risk Customers
+611,3,73,2304.54,3,Recent Regulars
+612,1,144,3977.47,0,Champions
+613,12,11,347.31,2,At-Risk Customers
+614,4,122,2746.39,0,Champions
+615,14,24,346.4,2,At-Risk Customers
+616,10,10,475.14,2,At-Risk Customers
+617,20,27,1314.54,1,Valuable but Cooling
+618,2,482,7311.3,0,Champions
+619,107,5,168.98,2,At-Risk Customers
+620,141,19,297.08,2,At-Risk Customers
+621,2,140,3177.5,0,Champions
+622,2,147,2377.67,0,Champions
+623,1,124,3893.16,0,Champions
+624,7,160,5997.62,0,Champions
+625,3,34,1206.1,3,Recent Regulars
+626,13,25,649.33,3,Recent Regulars
+627,5,45,1783.8600000000001,3,Recent Regulars
+628,5,18,1146.99,3,Recent Regulars
+629,82,27,376.49,2,At-Risk Customers
+630,1,205,7660.89,0,Champions
+631,1,482,9240.36,0,Champions
+632,3,94,3321.92,0,Champions
+633,1,167,5283.7300000000005,0,Champions
+634,243,34,1555.15,1,Valuable but Cooling
+635,57,34,362.9,2,At-Risk Customers
+636,2,227,9020.84,0,Champions
+637,4,113,2503.49,0,Champions
+638,5,163,8029.22,0,Champions
+639,92,78,759.83,1,Valuable but Cooling
+640,32,92,2245.75,1,Valuable but Cooling
+641,3,353,13163.01,0,Champions
+642,125,64,2207.84,1,Valuable but Cooling
+643,8,31,1403.67,3,Recent Regulars
+644,2,214,3750.4500000000003,0,Champions
+645,170,48,429.06,2,At-Risk Customers
+646,22,41,1684.52,1,Valuable but Cooling
+647,1,129,6258.66,0,Champions
+648,6,73,1910.4,3,Recent Regulars
+649,156,55,1538.3,1,Valuable but Cooling
+650,17,78,1414.45,1,Valuable but Cooling
+651,181,8,368.77,2,At-Risk Customers
+652,1,48,1797.89,3,Recent Regulars
+653,10,228,10817.55,0,Champions
+654,5,146,2321.53,0,Champions
+655,2,61,1978.76,3,Recent Regulars
+656,17,95,5034.28,1,Valuable but Cooling
+657,9,20,119.80000000000001,2,At-Risk Customers
+658,9,49,1052.48,3,Recent Regulars
+659,27,32,760.89,1,Valuable but Cooling
+660,3,168,7936.85,0,Champions
+661,2,394,8268.82,0,Champions
+662,19,39,1378.98,1,Valuable but Cooling
+663,3,105,3138.42,0,Champions
+664,21,31,990.83,1,Valuable but Cooling
+665,2,39,714.98,3,Recent Regulars
+666,3,99,1020.7,3,Recent Regulars
+667,4,66,1117.9,3,Recent Regulars
+668,1,57,1144.54,3,Recent Regulars
+669,6,119,9159.9,0,Champions
+670,4,192,5612.97,0,Champions
+671,18,127,5079.0599999999995,1,Valuable but Cooling
+672,2,120,2714.15,0,Champions
+673,1,50,703.71,3,Recent Regulars
+674,1,138,4726.32,0,Champions
+675,1,223,4815.08,0,Champions
+676,4,376,10725.36,0,Champions
+677,2,45,1599.99,3,Recent Regulars
+678,168,57,459.17,2,At-Risk Customers
+679,3,259,6290.01,0,Champions
+680,12,96,3493.34,1,Valuable but Cooling
+681,1,66,2770.69,3,Recent Regulars
+682,143,217,4388.95,1,Valuable but Cooling
+683,115,9,170.06,2,At-Risk Customers
+684,1,107,2052.67,3,Recent Regulars
+685,4,201,6011.27,0,Champions
+686,56,21,532.0699999999999,2,At-Risk Customers
+687,4,69,3178.0,3,Recent Regulars
+688,20,28,3202.61,1,Valuable but Cooling
+689,325,3,28.96,2,At-Risk Customers
+690,2,268,4956.59,0,Champions
+691,8,54,2511.33,3,Recent Regulars
+692,2,124,3880.29,0,Champions
+693,16,209,6360.01,0,Champions
+694,1,154,1756.64,0,Champions
+695,2,225,8517.73,0,Champions
+696,4,326,14642.51,0,Champions
+697,13,60,2821.59,1,Valuable but Cooling
+698,3,127,1202.49,3,Recent Regulars
+699,6,150,10333.01,0,Champions
+700,7,39,2978.1,3,Recent Regulars
+701,10,39,2590.51,3,Recent Regulars
+702,4,276,8193.31,0,Champions
+703,4,218,9470.89,0,Champions
+704,188,9,76.53,2,At-Risk Customers
+705,19,93,1380.94,1,Valuable but Cooling
+706,1,133,4020.35,0,Champions
+707,1,497,19179.82,0,Champions
+708,6,68,2828.06,3,Recent Regulars
+709,6,156,5521.05,0,Champions
+710,2,228,3694.77,0,Champions
+711,3,36,429.79,3,Recent Regulars
+712,2,256,11620.92,0,Champions
+713,20,24,538.4,2,At-Risk Customers
+714,1,294,4078.4900000000002,0,Champions
+715,1,175,3679.0099999999998,0,Champions
+716,4,78,1257.54,3,Recent Regulars
+717,21,51,616.72,1,Valuable but Cooling
+718,5,597,18958.96,0,Champions
+719,9,34,1096.74,3,Recent Regulars
+720,6,86,1678.8,3,Recent Regulars
+721,10,46,553.57,3,Recent Regulars
+722,7,135,6382.02,0,Champions
+723,7,23,1221.78,3,Recent Regulars
+724,52,26,639.3000000000001,2,At-Risk Customers
+725,1,133,4820.58,0,Champions
+726,1,71,2209.65,3,Recent Regulars
+727,1,118,4916.63,0,Champions
+728,6,473,10724.04,0,Champions
+729,10,32,1159.32,3,Recent Regulars
+730,7,92,1110.19,3,Recent Regulars
+731,10,233,3133.32,0,Champions
+732,3,103,3951.12,0,Champions
+733,8,76,2637.24,3,Recent Regulars
+734,15,76,1319.76,1,Valuable but Cooling
+735,25,92,1056.25,1,Valuable but Cooling
+736,7,60,3056.62,3,Recent Regulars
+737,61,52,1593.51,1,Valuable but Cooling
+738,1,101,2592.12,0,Champions
+739,423,6,159.06,2,At-Risk Customers
+740,1,113,6642.1,0,Champions
+741,7,87,3413.1,0,Champions
+742,9,326,3903.69,0,Champions
+743,14,70,1984.97,1,Valuable but Cooling
+744,7,155,4629.28,0,Champions
+745,2,180,6709.36,0,Champions
+746,124,39,569.0500000000001,2,At-Risk Customers
+747,3,135,1164.14,3,Recent Regulars
+748,10,84,2705.39,1,Valuable but Cooling
+749,7,76,1066.6200000000001,3,Recent Regulars
+750,3,49,598.62,3,Recent Regulars
+751,57,26,521.04,2,At-Risk Customers
+752,3,106,3792.56,0,Champions
+753,1,50,2171.14,3,Recent Regulars
+754,13,32,1533.23,1,Valuable but Cooling
+755,3,307,10584.06,0,Champions
+756,71,24,689.42,2,At-Risk Customers
+757,44,40,2014.17,1,Valuable but Cooling
+758,25,17,344.92,2,At-Risk Customers
+759,7,41,1274.09,3,Recent Regulars
+760,163,70,1862.52,1,Valuable but Cooling
+761,1,178,8927.460000000001,0,Champions
+762,1,886,8981.24,0,Champions
+763,93,40,2811.78,1,Valuable but Cooling
+764,9,112,3170.0,0,Champions
+765,2,30,1573.63,3,Recent Regulars
+766,11,118,8324.0,0,Champions
+767,33,13,558.0699999999999,2,At-Risk Customers
+768,2,463,6651.56,0,Champions
+769,7,46,1543.63,3,Recent Regulars
+770,14,43,2155.06,1,Valuable but Cooling
+771,1,496,7973.78,0,Champions
+772,26,42,271.88,2,At-Risk Customers
+773,9,22,899.63,3,Recent Regulars
+774,56,16,906.51,2,At-Risk Customers
+775,198,33,1121.0,1,Valuable but Cooling
+776,6,72,3151.2,3,Recent Regulars
+777,2,40,2745.4,3,Recent Regulars
+778,102,122,2278.19,1,Valuable but Cooling
+779,2,86,3917.53,0,Champions
+780,7,67,579.72,3,Recent Regulars
+781,7,57,1647.16,3,Recent Regulars
+782,49,69,1554.55,1,Valuable but Cooling
+783,126,17,384.34,2,At-Risk Customers
+784,4,134,3109.16,0,Champions
+785,5,103,2089.8,3,Recent Regulars
+786,6,204,7434.07,0,Champions
+787,3,190,2498.42,0,Champions
+788,3,294,7431.05,0,Champions
+789,3,26,368.95,3,Recent Regulars
+790,8,58,2831.63,3,Recent Regulars
+791,90,21,303.01,2,At-Risk Customers
+792,1,23,334.61,3,Recent Regulars
+793,9,107,1819.95,3,Recent Regulars
+794,15,32,1751.5,1,Valuable but Cooling
+795,41,45,1292.41,1,Valuable but Cooling
+796,12,50,445.65,3,Recent Regulars
+797,6,92,3059.07,0,Champions
+798,7,54,1583.03,3,Recent Regulars
+799,3,66,2061.59,3,Recent Regulars
+800,1,443,10424.08,0,Champions
+801,5,29,1651.57,3,Recent Regulars
+802,10,59,2147.4300000000003,3,Recent Regulars
+803,5,65,2036.8400000000001,3,Recent Regulars
+804,7,221,3876.2799999999997,0,Champions
+805,2,304,5523.97,0,Champions
+806,1,124,5844.5,0,Champions
+807,8,122,3987.08,0,Champions
+808,1,206,2317.35,0,Champions
+809,21,57,616.08,1,Valuable but Cooling
+810,18,37,540.1,1,Valuable but Cooling
+811,15,39,680.23,1,Valuable but Cooling
+812,26,93,1148.48,1,Valuable but Cooling
+813,4,33,2065.1,3,Recent Regulars
+814,25,23,773.76,2,At-Risk Customers
+815,18,47,1797.37,1,Valuable but Cooling
+816,16,104,3455.2200000000003,1,Valuable but Cooling
+817,6,147,4788.13,0,Champions
+818,1,52,1724.59,3,Recent Regulars
+819,11,6,161.75,2,At-Risk Customers
+820,1,208,4570.93,0,Champions
+821,92,17,464.56,2,At-Risk Customers
+822,13,42,866.56,3,Recent Regulars
+823,7,117,2588.65,0,Champions
+824,1,57,1166.28,3,Recent Regulars
+825,4,241,11774.210000000001,0,Champions
+826,27,26,203.01,2,At-Risk Customers
+827,3,20,319.89,3,Recent Regulars
+828,212,37,1122.16,1,Valuable but Cooling
+829,14,32,1625.21,1,Valuable but Cooling
+830,1,229,1633.09,0,Champions
+831,6,165,8819.1,0,Champions
+832,12,14,477.49,2,At-Risk Customers
+833,107,34,1972.56,1,Valuable but Cooling
+834,5,28,946.28,3,Recent Regulars
+835,124,17,273.81,2,At-Risk Customers
+836,21,73,1564.3500000000001,1,Valuable but Cooling
+837,4,36,767.15,3,Recent Regulars
+838,2,32,384.69,3,Recent Regulars
+839,20,10,845.7,2,At-Risk Customers
+840,1,212,11934.07,0,Champions
+841,1,157,2539.33,0,Champions
+842,12,503,7518.52,0,Champions
+843,2,74,2614.23,3,Recent Regulars
+844,2,141,5363.34,0,Champions
+845,7,117,5081.65,0,Champions
+846,28,34,1119.9,1,Valuable but Cooling
+847,4,53,1460.32,3,Recent Regulars
+848,8,29,2683.73,3,Recent Regulars
+849,4,62,4597.53,0,Champions
+850,11,97,1252.51,1,Valuable but Cooling
+851,50,21,166.78,2,At-Risk Customers
+852,8,94,1938.98,3,Recent Regulars
+853,2,515,13484.44,0,Champions
+854,34,36,551.87,2,At-Risk Customers
+855,2,209,5602.79,0,Champions
+856,2,182,5070.49,0,Champions
+857,9,43,4039.31,3,Recent Regulars
+858,2,42,594.23,3,Recent Regulars
+859,2,194,7069.400000000001,0,Champions
+860,76,52,242.77,2,At-Risk Customers
+861,6,34,1382.53,3,Recent Regulars
+862,1,71,1753.35,3,Recent Regulars
+863,1,145,2181.38,0,Champions
+864,1,109,7835.59,0,Champions
+865,17,35,1884.24,1,Valuable but Cooling
+866,19,135,5503.86,0,Champions
+867,1,181,5963.77,0,Champions
+868,4,162,6811.66,0,Champions
+869,2,130,1427.07,3,Recent Regulars
+870,294,12,240.11,2,At-Risk Customers
+871,3,132,10435.960000000001,0,Champions
+872,22,9,172.07,2,At-Risk Customers
+873,14,113,2924.65,1,Valuable but Cooling
+874,155,5,222.22,2,At-Risk Customers
+875,23,68,1457.22,1,Valuable but Cooling
+876,4,200,5895.04,0,Champions
+877,12,62,3254.8900000000003,1,Valuable but Cooling
+878,3,181,5979.72,0,Champions
+879,8,96,2438.75,3,Recent Regulars
+880,39,12,197.39000000000001,2,At-Risk Customers
+881,1,139,4281.9800000000005,0,Champions
+882,10,236,4578.16,0,Champions
+883,2,352,10154.130000000001,0,Champions
+884,3,70,674.35,3,Recent Regulars
+885,3,87,2596.8,3,Recent Regulars
+886,3,198,4874.66,0,Champions
+887,18,48,1133.71,1,Valuable but Cooling
+888,6,79,8570.960000000001,0,Champions
+889,1,214,12709.28,0,Champions
+890,18,31,1067.56,1,Valuable but Cooling
+891,1,112,7025.36,0,Champions
+892,107,22,424.76,2,At-Risk Customers
+893,3,111,4726.21,0,Champions
+894,28,31,1087.7,1,Valuable but Cooling
+895,12,210,8683.47,0,Champions
+896,6,112,5242.57,0,Champions
+897,2,62,839.73,3,Recent Regulars
+898,1,314,8341.69,0,Champions
+899,74,12,315.15,2,At-Risk Customers
+900,1,1221,16438.15,0,Champions
+901,3,76,2765.7,3,Recent Regulars
+902,106,10,135.23,2,At-Risk Customers
+903,11,72,2948.06,1,Valuable but Cooling
+904,2,31,890.25,3,Recent Regulars
+905,52,31,851.93,1,Valuable but Cooling
+906,1,382,7031.41,0,Champions
+907,4,92,1950.8700000000001,3,Recent Regulars
+908,5,199,6084.7300000000005,0,Champions
+909,1,704,12289.6,0,Champions
+910,70,34,1154.6100000000001,1,Valuable but Cooling
+911,21,75,3689.01,1,Valuable but Cooling
+912,96,20,1164.1100000000001,2,At-Risk Customers
+913,9,69,1827.38,3,Recent Regulars
+914,3,60,1834.08,3,Recent Regulars
+915,5,119,970.11,3,Recent Regulars
+916,4,206,3761.35,0,Champions
+917,144,43,488.48,2,At-Risk Customers
+918,107,152,3124.34,1,Valuable but Cooling
+919,2,132,1461.8600000000001,3,Recent Regulars
+920,2,238,5849.46,0,Champions
+921,107,8,101.3,2,At-Risk Customers
+922,14,149,3303.23,0,Champions
+923,4,161,3286.2,0,Champions
+924,4,95,2334.18,3,Recent Regulars
+925,61,79,484.84,1,Valuable but Cooling
+926,8,239,7269.05,0,Champions
+927,15,46,1526.23,1,Valuable but Cooling
+928,6,137,3569.15,0,Champions
+929,6,244,5324.71,0,Champions
+930,1,43,954.13,3,Recent Regulars
+931,44,42,4902.54,1,Valuable but Cooling
+932,21,158,5839.06,0,Champions
+933,54,77,2169.19,1,Valuable but Cooling
+934,4,233,10674.93,0,Champions
+935,22,57,1563.67,1,Valuable but Cooling
+936,1,497,6789.15,0,Champions
+937,4,68,1667.54,3,Recent Regulars
+938,70,26,1647.36,1,Valuable but Cooling
+939,3,153,5244.58,0,Champions
+940,31,65,1260.62,1,Valuable but Cooling
+941,2,122,2205.06,0,Champions
+942,32,215,5882.14,1,Valuable but Cooling
+943,33,144,3424.95,1,Valuable but Cooling
+944,11,103,2858.11,1,Valuable but Cooling
+945,9,50,1920.23,3,Recent Regulars
+946,3,136,2526.9,0,Champions
+947,2,221,2267.2400000000002,0,Champions
+948,340,4,304.85,2,At-Risk Customers
+949,5,133,5759.09,0,Champions
+950,102,58,2026.0,1,Valuable but Cooling
+951,1,18,690.22,3,Recent Regulars
+952,4,111,2198.9700000000003,3,Recent Regulars
+953,12,114,2487.64,1,Valuable but Cooling
+954,18,53,2525.38,1,Valuable but Cooling
+955,1,273,4043.74,0,Champions
+956,1,620,10227.98,0,Champions
+957,1,571,3748.56,0,Champions
+958,5,11,313.37,2,At-Risk Customers
+959,4,57,1059.3400000000001,3,Recent Regulars
+960,2,106,2445.9900000000002,0,Champions
+961,14,72,3954.77,1,Valuable but Cooling
+962,20,52,1530.44,1,Valuable but Cooling
+963,124,43,2034.16,1,Valuable but Cooling
+964,5,88,2039.7,3,Recent Regulars
+965,8,52,1757.27,3,Recent Regulars
+966,58,16,202.06,2,At-Risk Customers
+967,46,10,299.38,2,At-Risk Customers
+968,1,167,9791.82,0,Champions
+969,28,8,311.04,2,At-Risk Customers
+970,12,15,691.45,2,At-Risk Customers
+971,1,125,3676.15,0,Champions
+972,2,197,4199.09,0,Champions
+973,2,84,13476.82,0,Champions
+974,2,43,1990.06,3,Recent Regulars
+975,1,182,4769.31,0,Champions
+976,6,82,6176.51,0,Champions
+977,15,33,1036.52,1,Valuable but Cooling
+978,1,71,3014.35,3,Recent Regulars
+979,2,200,12412.12,0,Champions
+980,15,29,1329.1200000000001,1,Valuable but Cooling
+981,22,36,1394.11,1,Valuable but Cooling
+982,2,410,18583.98,0,Champions
+983,1,195,3764.5,0,Champions
+984,28,32,1216.31,1,Valuable but Cooling
+985,3,110,2041.24,3,Recent Regulars
+986,14,90,1827.87,1,Valuable but Cooling
+987,11,75,2333.98,1,Valuable but Cooling
+988,1,196,5971.65,0,Champions
+989,5,174,4645.01,0,Champions
+990,142,16,247.12,2,At-Risk Customers
+991,47,31,1418.8799999999999,1,Valuable but Cooling
+992,1,102,823.35,3,Recent Regulars
+993,9,123,3048.87,0,Champions
+994,9,21,581.45,3,Recent Regulars
+995,9,21,1216.16,3,Recent Regulars
+996,1,139,2178.85,0,Champions
+997,1,92,4645.31,0,Champions
+998,9,250,8256.3,0,Champions
+999,13,57,2143.44,1,Valuable but Cooling
+1000,6,138,4147.01,0,Champions
+1001,2,90,4066.76,0,Champions
+1002,1,30,973.9300000000001,3,Recent Regulars
+1003,29,63,2585.23,1,Valuable but Cooling
+1004,3,253,3708.7200000000003,0,Champions
+1005,1,179,2468.09,0,Champions
+1006,50,11,156.48,2,At-Risk Customers
+1007,3,122,1367.97,3,Recent Regulars
+1008,22,40,511.12,1,Valuable but Cooling
+1009,126,23,125.52,2,At-Risk Customers
+1010,2,91,2486.39,3,Recent Regulars
+1011,8,140,3485.9,0,Champions
+1012,39,120,2339.96,1,Valuable but Cooling
+1013,7,35,946.53,3,Recent Regulars
+1014,9,160,4191.12,0,Champions
+1015,2,107,3788.52,0,Champions
+1016,58,40,3089.84,1,Valuable but Cooling
+1017,11,62,3414.33,1,Valuable but Cooling
+1018,5,165,2124.95,0,Champions
+1019,9,53,1553.56,3,Recent Regulars
+1020,1,171,9548.28,0,Champions
+1021,4,99,2082.62,3,Recent Regulars
+1022,131,36,263.27,2,At-Risk Customers
+1023,2,601,38240.65,0,Champions
+1024,5,144,9388.57,0,Champions
+1025,16,81,3547.13,1,Valuable but Cooling
+1026,281,26,412.54,2,At-Risk Customers
+1027,2,40,1054.89,3,Recent Regulars
+1028,154,12,121.36,2,At-Risk Customers
+1029,4,276,13721.49,0,Champions
+1030,48,30,1259.29,1,Valuable but Cooling
+1031,155,145,4230.12,1,Valuable but Cooling
+1032,56,92,2464.16,1,Valuable but Cooling
+1033,72,26,1356.8899999999999,1,Valuable but Cooling
+1034,14,69,835.27,1,Valuable but Cooling
+1035,305,4,183.04,2,At-Risk Customers
+1036,54,27,1231.17,1,Valuable but Cooling
+1037,1,33,1076.69,3,Recent Regulars
+1038,10,273,1602.0,0,Champions
+1039,3,81,5159.13,0,Champions
+1040,2,229,5648.49,0,Champions
+1041,1,290,7151.1,0,Champions
+1042,6,248,5269.77,0,Champions
+1043,44,19,988.73,2,At-Risk Customers
+1044,6,20,417.56,3,Recent Regulars
+1045,2,295,4892.56,0,Champions
+1046,17,153,4314.95,0,Champions
+1047,7,80,1046.89,3,Recent Regulars
+1048,64,102,1924.1000000000001,1,Valuable but Cooling
+1049,7,55,696.71,3,Recent Regulars
+1050,3,135,5134.89,0,Champions
+1051,15,54,2266.12,1,Valuable but Cooling
+1052,481,7,230.66,2,At-Risk Customers
+1053,5,96,4610.31,0,Champions
+1054,23,41,1035.19,1,Valuable but Cooling
+1055,15,81,1204.41,1,Valuable but Cooling
+1056,10,66,4871.09,1,Valuable but Cooling
+1057,2,184,8216.09,0,Champions
+1058,1,562,3270.03,0,Champions
+1059,157,5,72.91,2,At-Risk Customers
+1060,40,64,6096.93,1,Valuable but Cooling
+1061,3,147,6209.37,0,Champions
+1062,1,214,1492.41,0,Champions
+1063,91,57,1324.98,1,Valuable but Cooling
+1064,4,44,3024.8,3,Recent Regulars
+1065,7,50,5160.31,3,Recent Regulars
+1066,4,245,3083.03,0,Champions
+1067,10,62,3735.07,1,Valuable but Cooling
+1068,12,110,1321.85,1,Valuable but Cooling
+1069,31,55,3432.52,1,Valuable but Cooling
+1070,4,174,5182.03,0,Champions
+1071,7,84,2049.19,3,Recent Regulars
+1072,11,60,2694.8,1,Valuable but Cooling
+1073,2,121,3010.03,0,Champions
+1074,5,132,7755.7300000000005,0,Champions
+1075,23,67,1455.25,1,Valuable but Cooling
+1076,1,86,2240.01,3,Recent Regulars
+1077,7,36,1488.81,3,Recent Regulars
+1078,2,250,6863.83,0,Champions
+1079,50,50,998.8,1,Valuable but Cooling
+1080,24,84,2204.71,1,Valuable but Cooling
+1081,13,139,10178.42,0,Champions
+1082,1,142,2028.04,0,Champions
+1083,18,53,1394.28,1,Valuable but Cooling
+1084,1,223,2361.16,0,Champions
+1085,10,106,4805.0,0,Champions
+1086,12,30,1184.36,3,Recent Regulars
+1087,23,148,2991.7,1,Valuable but Cooling
+1088,1,91,1439.6100000000001,3,Recent Regulars
+1089,8,95,2402.48,3,Recent Regulars
+1090,30,12,307.87,2,At-Risk Customers
+1091,46,116,5615.86,1,Valuable but Cooling
+1092,6,42,944.04,3,Recent Regulars
+1093,1,33,992.76,3,Recent Regulars
+1094,3,95,5924.32,0,Champions
+1095,68,30,599.54,2,At-Risk Customers
+1096,27,47,592.36,1,Valuable but Cooling
+1097,7,163,8802.33,0,Champions
+1098,1,448,9286.54,0,Champions
+1099,64,28,683.13,2,At-Risk Customers
+1100,9,26,313.41,2,At-Risk Customers
+1101,51,16,190.78,2,At-Risk Customers
+1102,19,81,2258.8,1,Valuable but Cooling
+1103,4,204,6098.6900000000005,0,Champions
+1104,14,118,3374.16,1,Valuable but Cooling
+1105,24,9,499.14,2,At-Risk Customers
+1106,10,38,683.26,3,Recent Regulars
+1107,64,22,877.3199999999999,2,At-Risk Customers
+1108,35,22,292.1,2,At-Risk Customers
+1109,21,86,3052.65,1,Valuable but Cooling
+1110,4,133,5102.39,0,Champions
+1111,5,321,18882.68,0,Champions
+1112,36,52,1884.2,1,Valuable but Cooling
+1113,2,176,4334.86,0,Champions
+1114,2,44,967.36,3,Recent Regulars
+1115,4,51,1826.79,3,Recent Regulars
+1116,16,63,2772.73,1,Valuable but Cooling
+1117,2,186,3664.94,0,Champions
+1118,117,16,945.89,2,At-Risk Customers
+1119,2,68,2226.45,3,Recent Regulars
+1120,3,87,1732.74,3,Recent Regulars
+1121,30,61,2474.73,1,Valuable but Cooling
+1122,214,77,1233.23,1,Valuable but Cooling
+1123,38,73,3911.31,1,Valuable but Cooling
+1124,3,79,1890.54,3,Recent Regulars
+1125,1,89,691.1,3,Recent Regulars
+1126,2,28,2539.86,3,Recent Regulars
+1127,1,29,1558.53,3,Recent Regulars
+1128,2,233,3024.5,0,Champions
+1129,1,73,2389.42,3,Recent Regulars
+1130,1,362,6492.1,0,Champions
+1131,2,102,3026.77,0,Champions
+1132,11,58,2072.62,1,Valuable but Cooling
+1133,1,115,1377.66,3,Recent Regulars
+1134,23,51,5032.9400000000005,1,Valuable but Cooling
+1135,6,62,681.45,3,Recent Regulars
+1136,8,58,1927.81,3,Recent Regulars
+1137,4,134,2121.89,0,Champions
+1138,1,212,4544.87,0,Champions
+1139,7,92,7519.7,0,Champions
+1140,52,21,1161.88,1,Valuable but Cooling
+1141,16,59,1136.28,1,Valuable but Cooling
+1142,2,284,15133.130000000001,0,Champions
+1143,76,12,169.96,2,At-Risk Customers
+1144,14,24,187.09,2,At-Risk Customers
+1145,5,81,3872.67,0,Champions
+1146,1,345,8790.57,0,Champions
+1147,2,57,3776.86,3,Recent Regulars
+1148,4,26,478.59000000000003,3,Recent Regulars
+1149,40,17,307.90999999999997,2,At-Risk Customers
+1150,160,14,845.39,2,At-Risk Customers
+1151,4,159,2808.91,0,Champions
+1152,17,76,1304.66,1,Valuable but Cooling
+1153,7,65,1142.8600000000001,3,Recent Regulars
+1154,1,127,3782.5,0,Champions
+1155,1,41,2052.02,3,Recent Regulars
+1156,74,29,997.78,1,Valuable but Cooling
+1157,38,101,2779.86,1,Valuable but Cooling
+1158,1,218,2895.2,0,Champions
+1159,4,233,4466.03,0,Champions
+1160,1,145,4377.96,0,Champions
+1161,7,62,1372.58,3,Recent Regulars
+1162,215,33,428.67,2,At-Risk Customers
+1163,18,153,4800.81,0,Champions
+1164,1,103,4689.35,0,Champions
+1165,6,57,1410.52,3,Recent Regulars
+1166,1,409,11838.03,0,Champions
+1167,4,150,6794.24,0,Champions
+1168,9,68,865.73,3,Recent Regulars
+1169,7,128,5154.4,0,Champions
+1170,63,7,68.45,2,At-Risk Customers
+1171,5,34,996.6,3,Recent Regulars
+1172,2,167,4568.94,0,Champions
+1173,75,41,655.77,1,Valuable but Cooling
+1174,8,122,2155.65,3,Recent Regulars
+1175,6,134,7397.26,0,Champions
+1176,9,15,240.85,2,At-Risk Customers
+1177,14,17,337.98,2,At-Risk Customers
+1178,4,212,5008.39,0,Champions
+1179,1,204,9391.72,0,Champions
+1180,11,164,5430.04,0,Champions
+1181,6,89,2188.83,3,Recent Regulars
+1182,28,124,1965.38,1,Valuable but Cooling
+1183,35,9,256.0,2,At-Risk Customers
+1184,19,13,713.9,2,At-Risk Customers
+1185,5,61,1334.18,3,Recent Regulars
+1186,4,79,6055.28,0,Champions
+1187,2,132,2988.39,0,Champions
+1188,6,147,3713.53,0,Champions
+1189,13,51,954.21,1,Valuable but Cooling
+1190,1,253,3315.42,0,Champions
+1191,3,98,2485.87,3,Recent Regulars
+1192,3,99,1477.45,3,Recent Regulars
+1193,14,218,4695.72,0,Champions
+1194,10,62,1276.74,3,Recent Regulars
+1195,7,41,1271.09,3,Recent Regulars
+1196,30,27,1915.95,1,Valuable but Cooling
+1197,7,150,7714.14,0,Champions
+1198,16,44,1003.05,1,Valuable but Cooling
+1199,431,7,163.57,2,At-Risk Customers
+1200,27,29,1618.2,1,Valuable but Cooling
+1201,16,38,520.25,1,Valuable but Cooling
+1202,17,25,572.64,2,At-Risk Customers
+1203,2,173,6367.66,0,Champions
+1204,4,81,2037.63,3,Recent Regulars
+1205,33,186,4377.61,1,Valuable but Cooling
+1206,12,381,6162.78,0,Champions
+1207,7,107,743.09,3,Recent Regulars
+1208,18,54,1078.06,1,Valuable but Cooling
+1209,2,23,359.62,3,Recent Regulars
+1210,16,37,921.33,1,Valuable but Cooling
+1211,1,168,9032.29,0,Champions
+1212,27,6,195.27,2,At-Risk Customers
+1213,7,45,620.22,3,Recent Regulars
+1214,37,7,122.95,2,At-Risk Customers
+1215,17,15,786.45,2,At-Risk Customers
+1216,1,134,5288.86,0,Champions
+1217,6,54,2649.9,3,Recent Regulars
+1218,10,93,3060.45,1,Valuable but Cooling
+1219,3,121,819.08,3,Recent Regulars
+1220,80,31,786.04,2,At-Risk Customers
+1221,31,15,651.59,2,At-Risk Customers
+1222,3,174,5784.42,0,Champions
+1223,21,57,1738.69,1,Valuable but Cooling
+1224,5,91,2362.78,3,Recent Regulars
+1225,16,75,1415.38,1,Valuable but Cooling
+1226,11,76,6216.46,0,Champions
+1227,1,86,3802.2599999999998,0,Champions
+1228,1,797,14239.29,0,Champions
+1229,1,385,18272.01,0,Champions
+1230,19,20,258.53,2,At-Risk Customers
+1231,9,53,1894.1399999999999,3,Recent Regulars
+1232,167,22,485.99,2,At-Risk Customers
+1233,19,38,1771.93,1,Valuable but Cooling
+1234,2,94,5543.2300000000005,0,Champions
+1235,5,20,893.65,3,Recent Regulars
+1236,3,194,3993.01,0,Champions
+1237,91,20,1046.16,2,At-Risk Customers
+1238,8,50,4618.28,3,Recent Regulars
+1239,4,26,2063.75,3,Recent Regulars
+1240,1,216,11239.3,0,Champions
+1241,2,91,2038.6499999999999,3,Recent Regulars
+1242,7,34,829.36,3,Recent Regulars
+1243,118,14,249.70000000000002,2,At-Risk Customers
+1244,5,34,603.45,3,Recent Regulars
+1245,1,253,4465.72,0,Champions
+1246,10,97,5425.5,0,Champions
+1247,3,118,6623.62,0,Champions
+1248,10,158,9013.630000000001,0,Champions
+1249,8,23,491.62,3,Recent Regulars
+1250,13,6,203.17,2,At-Risk Customers
+1251,58,52,324.27,2,At-Risk Customers
+1252,18,46,1113.75,1,Valuable but Cooling
+1253,90,24,556.6,2,At-Risk Customers
+1254,74,6,252.31,2,At-Risk Customers
+1255,18,28,522.3,2,At-Risk Customers
+1256,6,169,5255.37,0,Champions
+1257,5,31,1389.1200000000001,3,Recent Regulars
+1258,1,232,3493.95,0,Champions
+1259,30,32,1163.62,1,Valuable but Cooling
+1260,1,167,11194.75,0,Champions
+1261,7,228,3763.13,0,Champions
+1262,48,29,767.22,2,At-Risk Customers
+1263,30,126,5247.21,1,Valuable but Cooling
+1264,11,132,6377.38,0,Champions
+1265,1,49,1381.19,3,Recent Regulars
+1266,12,115,1657.11,1,Valuable but Cooling
+1267,3,66,1689.34,3,Recent Regulars
+1268,6,71,3013.56,3,Recent Regulars
+1269,1,109,2591.67,0,Champions
+1270,7,73,3455.32,3,Recent Regulars
+1271,2,131,4152.72,0,Champions
+1272,1,256,9984.2,0,Champions
+1273,6,17,263.04,2,At-Risk Customers
+1274,3,272,12491.85,0,Champions
+1275,421,8,137.63,2,At-Risk Customers
+1276,9,20,623.45,3,Recent Regulars
+1277,2,328,5878.22,0,Champions
+1278,7,19,737.34,3,Recent Regulars
+1279,3,199,4793.46,0,Champions
+1280,23,24,427.63,2,At-Risk Customers
+1281,17,38,786.4,1,Valuable but Cooling
+1282,20,201,5953.9800000000005,0,Champions
+1283,4,49,329.41,3,Recent Regulars
+1284,2,158,1968.1,0,Champions
+1285,3,137,4981.47,0,Champions
+1286,104,30,595.0,2,At-Risk Customers
+1287,13,158,2798.4,0,Champions
+1288,4,53,1896.5,3,Recent Regulars
+1289,2,524,1509.58,0,Champions
+1290,10,34,1057.59,3,Recent Regulars
+1291,5,103,3277.31,0,Champions
+1292,16,27,520.3199999999999,2,At-Risk Customers
+1293,2,175,2762.8,0,Champions
+1294,3,56,4802.19,3,Recent Regulars
+1295,4,68,1634.03,3,Recent Regulars
+1296,4,80,2115.48,3,Recent Regulars
+1297,1,147,2730.28,0,Champions
+1298,13,50,1484.49,1,Valuable but Cooling
+1299,1,189,5830.47,0,Champions
+1300,2,84,2935.62,3,Recent Regulars
+1301,2,79,1488.63,3,Recent Regulars
+1302,4,36,757.95,3,Recent Regulars
+1303,4,212,6327.1,0,Champions
+1304,2,90,898.39,3,Recent Regulars
+1305,31,373,7536.03,0,Champions
+1306,4,170,3035.36,0,Champions
+1307,5,173,2049.58,0,Champions
+1308,133,23,320.58,2,At-Risk Customers
+1309,162,9,158.48000000000002,2,At-Risk Customers
+1310,20,34,851.38,1,Valuable but Cooling
+1311,105,17,685.63,2,At-Risk Customers
+1312,9,134,4996.25,0,Champions
+1313,12,30,1029.22,3,Recent Regulars
+1314,2,420,14327.15,0,Champions
+1315,88,5,645.36,2,At-Risk Customers
+1316,19,57,3729.28,1,Valuable but Cooling
+1317,5,196,4056.69,0,Champions
+1318,15,74,5566.16,1,Valuable but Cooling
+1319,33,48,1043.26,1,Valuable but Cooling
+1320,5,14,360.43,3,Recent Regulars
+1321,2,202,1885.63,0,Champions
+1322,24,16,260.65,2,At-Risk Customers
+1323,6,11,297.05,2,At-Risk Customers
+1324,13,42,2664.73,1,Valuable but Cooling
+1325,3,64,2834.9900000000002,3,Recent Regulars
+1326,5,391,8813.61,0,Champions
+1327,303,9,477.17,2,At-Risk Customers
+1328,2,96,2544.89,0,Champions
+1329,11,31,1546.05,3,Recent Regulars
+1330,5,86,2174.06,3,Recent Regulars
+1331,34,105,1821.03,1,Valuable but Cooling
+1332,6,60,2046.26,3,Recent Regulars
+1333,7,129,7648.93,0,Champions
+1334,15,57,629.58,1,Valuable but Cooling
+1335,23,31,958.38,1,Valuable but Cooling
+1336,4,123,6004.22,0,Champions
+1337,1,244,11418.16,0,Champions
+1338,2,188,1781.98,0,Champions
+1339,11,6,390.15999999999997,2,At-Risk Customers
+1340,17,57,512.53,1,Valuable but Cooling
+1341,75,13,434.77,2,At-Risk Customers
+1342,34,12,160.01999999999998,2,At-Risk Customers
+1343,47,12,266.69,2,At-Risk Customers
+1344,21,27,2650.48,1,Valuable but Cooling
+1345,22,56,1347.3600000000001,1,Valuable but Cooling
+1346,1,80,1169.21,3,Recent Regulars
+1347,6,131,3351.34,0,Champions
+1348,86,23,324.22,2,At-Risk Customers
+1349,1,202,5352.2,0,Champions
+1350,3,131,2567.6,0,Champions
+1351,15,91,556.01,1,Valuable but Cooling
+1352,1,138,5393.16,0,Champions
+1353,9,132,4014.41,0,Champions
+1354,2,87,2522.01,3,Recent Regulars
+1355,3,14,546.82,3,Recent Regulars
+1356,7,83,2237.79,3,Recent Regulars
+1357,2,87,3007.7,0,Champions
+1358,2,123,2462.68,0,Champions
+1359,5,76,1191.68,3,Recent Regulars
+1360,39,23,630.1899999999999,2,At-Risk Customers
+1361,2,11,608.58,3,Recent Regulars
+1362,16,61,1418.76,1,Valuable but Cooling
+1363,1,58,4072.4,3,Recent Regulars
+1364,2,145,2418.4,0,Champions
+1365,323,9,102.60000000000001,2,At-Risk Customers
+1366,7,256,4242.62,0,Champions
+1367,2,349,12077.63,0,Champions
+1368,12,32,2766.9700000000003,1,Valuable but Cooling
+1369,1,144,3104.71,0,Champions
+1370,1,84,8528.39,0,Champions
+1371,181,45,832.12,1,Valuable but Cooling
+1372,54,25,1333.32,1,Valuable but Cooling
+1373,12,40,657.52,3,Recent Regulars
+1374,4,99,2841.56,0,Champions
+1375,2,122,3737.92,0,Champions
+1376,4,233,10891.72,0,Champions
+1377,9,35,790.89,3,Recent Regulars
+1378,5,121,6921.47,0,Champions
+1379,1,509,13985.12,0,Champions
+1380,33,25,349.81,2,At-Risk Customers
+1381,10,49,133.4,2,At-Risk Customers
+1382,6,116,3079.22,0,Champions
+1383,11,128,1532.65,1,Valuable but Cooling
+1384,16,33,827.46,1,Valuable but Cooling
+1385,19,112,5628.01,1,Valuable but Cooling
+1386,49,8,111.15,2,At-Risk Customers
+1387,7,66,2056.95,3,Recent Regulars
+1388,3,150,6915.71,0,Champions
+1389,11,41,2835.61,1,Valuable but Cooling
+1390,7,210,4842.82,0,Champions
+1391,4,169,8078.39,0,Champions
+1392,51,106,2287.65,1,Valuable but Cooling
+1393,4,203,5930.41,0,Champions
+1394,5,151,4374.39,0,Champions
+1395,3,40,1140.42,3,Recent Regulars
+1396,92,229,7125.07,1,Valuable but Cooling
+1397,4,283,5665.97,0,Champions
+1398,18,20,401.36,2,At-Risk Customers
+1399,5,33,1032.63,3,Recent Regulars
+1400,13,11,284.31,2,At-Risk Customers
+1401,29,52,580.87,1,Valuable but Cooling
+1402,3,165,2245.51,0,Champions
+1403,29,151,3640.82,1,Valuable but Cooling
+1404,8,43,1246.69,3,Recent Regulars
+1405,13,54,2466.33,1,Valuable but Cooling
+1406,2,115,3788.84,0,Champions
+1407,7,35,1614.94,3,Recent Regulars
+1408,21,57,1053.29,1,Valuable but Cooling
+1409,6,87,4253.83,0,Champions
+1410,18,45,2518.49,1,Valuable but Cooling
+1411,269,6,131.51999999999998,2,At-Risk Customers
+1412,7,77,4045.1,0,Champions
+1413,12,27,343.06,2,At-Risk Customers
+1414,1,17,274.03,3,Recent Regulars
+1415,9,27,268.66,2,At-Risk Customers
+1416,24,6,91.65,2,At-Risk Customers
+1417,2,75,3698.85,0,Champions
+1418,5,78,2733.0,3,Recent Regulars
+1419,1,524,7425.4800000000005,0,Champions
+1420,58,78,3883.1,1,Valuable but Cooling
+1421,1,218,5505.76,0,Champions
+1422,5,11,481.77,3,Recent Regulars
+1423,14,188,1695.01,1,Valuable but Cooling
+1424,61,57,595.22,1,Valuable but Cooling
+1425,3,131,3768.69,0,Champions
+1426,11,65,2329.87,1,Valuable but Cooling
+1427,6,83,2608.77,3,Recent Regulars
+1428,10,163,4890.84,0,Champions
+1429,2,83,779.67,3,Recent Regulars
+1430,1,343,20298.49,0,Champions
+1431,2,155,2718.4,0,Champions
+1432,1,9,333.65,3,Recent Regulars
+1433,25,8,70.04,2,At-Risk Customers
+1434,3,220,4159.33,0,Champions
+1435,92,13,511.78000000000003,2,At-Risk Customers
+1436,116,8,132.39000000000001,2,At-Risk Customers
+1437,22,99,4671.49,1,Valuable but Cooling
+1438,7,41,2130.77,3,Recent Regulars
+1439,53,32,555.56,2,At-Risk Customers
+1440,1,100,2523.84,0,Champions
+1441,78,13,401.47,2,At-Risk Customers
+1442,23,29,312.5,2,At-Risk Customers
+1443,2,182,2219.48,0,Champions
+1444,94,23,323.99,2,At-Risk Customers
+1445,4,178,5110.54,0,Champions
+1446,9,44,2038.8600000000001,3,Recent Regulars
+1447,6,40,597.7,3,Recent Regulars
+1448,61,80,1927.33,1,Valuable but Cooling
+1449,87,39,405.83,2,At-Risk Customers
+1450,26,88,1647.2,1,Valuable but Cooling
+1451,2,260,6525.900000000001,0,Champions
+1452,13,374,1882.05,0,Champions
+1453,2,761,21565.43,0,Champions
+1454,1,153,4902.14,0,Champions
+1455,452,14,819.58,2,At-Risk Customers
+1456,27,68,1505.5,1,Valuable but Cooling
+1457,20,39,2662.94,1,Valuable but Cooling
+1458,7,126,3464.05,0,Champions
+1459,10,79,4768.04,0,Champions
+1460,60,57,2431.63,1,Valuable but Cooling
+1461,3,288,7244.2,0,Champions
+1462,8,120,4820.31,0,Champions
+1463,5,139,3336.2,0,Champions
+1464,36,75,2467.4,1,Valuable but Cooling
+1465,8,56,1035.08,3,Recent Regulars
+1466,12,38,1029.47,3,Recent Regulars
+1467,1,835,2951.33,0,Champions
+1468,144,78,4128.73,1,Valuable but Cooling
+1469,162,44,1160.0,1,Valuable but Cooling
+1470,4,133,1987.33,0,Champions
+1471,45,32,477.48,2,At-Risk Customers
+1472,295,4,263.34000000000003,2,At-Risk Customers
+1473,4,118,4336.0,0,Champions
+1474,5,71,2445.87,3,Recent Regulars
+1475,2,339,14820.97,0,Champions
+1476,2,356,9480.75,0,Champions
+1477,51,15,279.2,2,At-Risk Customers
+1478,199,6,88.59,2,At-Risk Customers
+1479,3,716,9080.78,0,Champions
+1480,44,26,152.20999999999998,2,At-Risk Customers
+1481,4,164,3296.02,0,Champions
+1482,117,18,1041.35,2,At-Risk Customers
+1483,1,112,4714.89,0,Champions
+1484,4,106,3165.5099999999998,0,Champions
+1485,16,66,2175.39,1,Valuable but Cooling
+1486,14,14,547.32,2,At-Risk Customers
+1487,8,38,1468.78,3,Recent Regulars
+1488,20,76,3211.2400000000002,1,Valuable but Cooling
+1489,2,535,17228.38,0,Champions
+1490,3,208,5062.2,0,Champions
+1491,2,289,5632.92,0,Champions
+1492,3,95,1223.79,3,Recent Regulars
+1493,8,25,939.33,3,Recent Regulars
+1494,12,85,2592.34,1,Valuable but Cooling
+1495,8,165,1779.86,0,Champions
+1496,55,12,848.95,2,At-Risk Customers
+1497,20,9,527.3000000000001,2,At-Risk Customers
+1498,54,26,950.84,1,Valuable but Cooling
+1499,1,88,2093.34,3,Recent Regulars
+1500,15,54,1050.6200000000001,1,Valuable but Cooling
+1501,11,204,8489.73,0,Champions
+1502,32,46,2144.93,1,Valuable but Cooling
+1503,52,17,115.69,2,At-Risk Customers
+1504,515,3,66.33,2,At-Risk Customers
+1505,61,102,4016.44,1,Valuable but Cooling
+1506,2,144,2389.2,0,Champions
+1507,12,26,1497.3700000000001,3,Recent Regulars
+1508,43,81,1830.05,1,Valuable but Cooling
+1509,2,204,6443.33,0,Champions
+1510,1,1298,11201.27,0,Champions
+1511,7,149,3732.27,0,Champions
+1512,5,93,1671.73,3,Recent Regulars
+1513,5,63,929.95,3,Recent Regulars
+1514,8,57,2298.41,3,Recent Regulars
+1515,1,99,4144.75,0,Champions
+1516,216,15,189.66,2,At-Risk Customers
+1517,4,135,3845.05,0,Champions
+1518,36,34,1373.77,1,Valuable but Cooling
+1519,22,30,2347.9700000000003,1,Valuable but Cooling
+1520,4,142,3835.36,0,Champions
+1521,46,43,750.95,1,Valuable but Cooling
+1522,79,35,1085.56,1,Valuable but Cooling
+1523,33,67,1665.64,1,Valuable but Cooling
+1524,2,60,2741.14,3,Recent Regulars
+1525,22,38,1645.25,1,Valuable but Cooling
+1526,2,199,2901.09,0,Champions
+1527,2,317,17282.94,0,Champions
+1528,1,239,8079.57,0,Champions
+1529,5,244,8869.0,0,Champions
+1530,5,48,879.9300000000001,3,Recent Regulars
+1531,2,45,977.91,3,Recent Regulars
+1532,43,86,1896.48,1,Valuable but Cooling
+1533,12,22,252.74,2,At-Risk Customers
+1534,4,311,8306.95,0,Champions
+1535,1,247,8445.65,0,Champions
+1536,1,164,6930.2,0,Champions
+1537,21,145,2875.78,1,Valuable but Cooling
+1538,5,32,503.67,3,Recent Regulars
+1539,40,10,79.41,2,At-Risk Customers
+1540,2,143,3595.64,0,Champions
+1541,7,101,7625.860000000001,0,Champions
+1542,10,116,1959.43,1,Valuable but Cooling
+1543,28,83,2611.4,1,Valuable but Cooling
+1544,21,54,2455.93,1,Valuable but Cooling
+1545,3,174,3939.48,0,Champions
+1546,8,113,4082.37,0,Champions
+1547,2,289,2209.41,0,Champions
+1548,2,112,3843.83,0,Champions
+1549,1,175,1962.91,0,Champions
+1550,2,337,2542.45,0,Champions
+1551,16,18,800.11,2,At-Risk Customers
+1552,20,35,1078.76,1,Valuable but Cooling
+1553,17,16,140.84,2,At-Risk Customers
+1554,8,46,977.76,3,Recent Regulars
+1555,15,89,1442.89,1,Valuable but Cooling
+1556,2,138,3757.39,0,Champions
+1557,2,195,6519.16,0,Champions
+1558,1,145,4486.1,0,Champions
+1559,8,59,2723.87,3,Recent Regulars
+1560,9,44,1209.04,3,Recent Regulars
+1561,101,6,401.40999999999997,2,At-Risk Customers
+1562,2,39,1198.02,3,Recent Regulars
+1563,14,113,4744.89,0,Champions
+1564,48,36,437.77,2,At-Risk Customers
+1565,60,31,432.55,2,At-Risk Customers
+1566,3,346,10545.66,0,Champions
+1567,4,155,2119.18,0,Champions
+1568,4,81,4567.99,0,Champions
+1569,6,104,1345.09,3,Recent Regulars
+1570,48,51,2387.96,1,Valuable but Cooling
+1571,4,49,567.87,3,Recent Regulars
+1572,1,52,2522.52,3,Recent Regulars
+1573,16,93,356.93,1,Valuable but Cooling
+1574,61,28,3597.21,1,Valuable but Cooling
+1575,2,55,1640.49,3,Recent Regulars
+1576,21,18,471.11,2,At-Risk Customers
+1577,20,82,3789.11,1,Valuable but Cooling
+1578,15,94,2843.26,1,Valuable but Cooling
+1579,2,600,12683.25,0,Champions
+1580,2,201,1770.27,0,Champions
+1581,4,28,1243.76,3,Recent Regulars
+1582,110,37,1904.02,1,Valuable but Cooling
+1583,27,20,338.28000000000003,2,At-Risk Customers
+1584,2,317,7434.08,0,Champions
+1585,7,149,9348.05,0,Champions
+1586,3,72,2236.71,3,Recent Regulars
+1587,1,68,705.6800000000001,3,Recent Regulars
+1588,4,232,5193.9800000000005,0,Champions
+1589,4,18,341.04,3,Recent Regulars
+1590,8,151,8016.6,0,Champions
+1591,4,110,4784.11,0,Champions
+1592,1,52,2368.59,3,Recent Regulars
+1593,17,42,1782.2,1,Valuable but Cooling
+1594,7,117,2983.43,0,Champions
+1595,2,139,5640.07,0,Champions
+1596,3,28,2151.73,3,Recent Regulars
+1597,7,54,800.38,3,Recent Regulars
+1598,1,442,11496.28,0,Champions
+1599,2,181,6157.21,0,Champions
+1600,6,64,914.7,3,Recent Regulars
+1601,4,23,1287.54,3,Recent Regulars
+1602,2,159,6417.04,0,Champions
+1603,142,11,490.73,2,At-Risk Customers
+1604,1,156,818.41,3,Recent Regulars
+1605,10,57,664.47,3,Recent Regulars
+1606,17,21,1131.91,1,Valuable but Cooling
+1607,2,138,3817.88,0,Champions
+1608,25,40,1389.09,1,Valuable but Cooling
+1609,1,408,27781.2,0,Champions
+1610,246,11,163.99,2,At-Risk Customers
+1611,5,51,677.46,3,Recent Regulars
+1612,1,151,8399.92,0,Champions
+1613,6,136,6691.03,0,Champions
+1614,14,74,509.93,3,Recent Regulars
+1615,52,42,863.18,1,Valuable but Cooling
+1616,80,38,1228.72,1,Valuable but Cooling
+1617,25,103,4067.8,1,Valuable but Cooling
+1618,1,99,4456.03,0,Champions
+1619,4,185,4446.4400000000005,0,Champions
+1620,4,336,9190.01,0,Champions
+1621,3,90,3217.48,0,Champions
+1622,1,105,3840.81,0,Champions
+1623,2,180,4731.04,0,Champions
+1624,29,82,1567.81,1,Valuable but Cooling
+1625,11,41,461.44,3,Recent Regulars
+1626,273,2,42.959999999999994,2,At-Risk Customers
+1627,1,112,3480.29,0,Champions
+1628,10,18,546.03,2,At-Risk Customers
+1629,49,9,590.71,2,At-Risk Customers
+1630,2,188,9202.87,0,Champions
+1631,1,352,10407.9,0,Champions
+1632,39,64,2104.91,1,Valuable but Cooling
+1633,6,219,10009.3,0,Champions
+1634,3,84,4605.84,0,Champions
+1635,49,20,128.98,2,At-Risk Customers
+1636,2,22,1195.77,3,Recent Regulars
+1637,1,66,1170.13,3,Recent Regulars
+1638,16,51,552.18,1,Valuable but Cooling
+1639,1,110,2573.6,0,Champions
+1640,1,151,4402.2,0,Champions
+1641,5,47,569.63,3,Recent Regulars
+1642,7,125,2090.77,3,Recent Regulars
+1643,10,46,1461.3999999999999,3,Recent Regulars
+1644,1,26,397.48,3,Recent Regulars
+1645,46,8,296.52,2,At-Risk Customers
+1646,13,68,1553.53,1,Valuable but Cooling
+1647,39,12,50.49,2,At-Risk Customers
+1648,28,112,5061.82,1,Valuable but Cooling
+1649,1,48,1132.4,3,Recent Regulars
+1650,7,105,2256.66,3,Recent Regulars
+1651,1,65,2014.73,3,Recent Regulars
+1652,4,38,946.0,3,Recent Regulars
+1653,2,538,19115.97,0,Champions
+1654,33,39,782.53,1,Valuable but Cooling
+1655,1,40,502.77,3,Recent Regulars
+1656,52,10,458.22,2,At-Risk Customers
+1657,31,49,647.9,1,Valuable but Cooling
+1658,5,68,1776.67,3,Recent Regulars
+1659,3,130,2818.62,0,Champions
+1660,8,62,2043.0,3,Recent Regulars
+1661,3,44,1423.75,3,Recent Regulars
+1662,10,83,8612.44,0,Champions
+1663,3,196,1834.06,0,Champions
+1664,15,41,2182.77,1,Valuable but Cooling
+1665,5,108,1555.29,3,Recent Regulars
+1666,38,82,1078.47,1,Valuable but Cooling
+1667,11,42,887.55,3,Recent Regulars
+1668,16,94,2279.31,1,Valuable but Cooling
+1669,9,10,296.97,2,At-Risk Customers
+1670,88,19,96.48,2,At-Risk Customers
+1671,2,38,1420.06,3,Recent Regulars
+1672,11,73,1711.5800000000002,1,Valuable but Cooling
+1673,19,107,4757.11,1,Valuable but Cooling
+1674,293,8,120.28,2,At-Risk Customers
+1675,79,102,4782.11,1,Valuable but Cooling
+1676,6,97,5190.53,0,Champions
+1677,8,193,12538.26,0,Champions
+1678,13,79,2612.9900000000002,1,Valuable but Cooling
+1679,3,46,276.13,3,Recent Regulars
+1680,24,51,2002.45,1,Valuable but Cooling
+1681,68,90,2600.2799999999997,1,Valuable but Cooling
+1682,9,10,158.93,2,At-Risk Customers
+1683,9,86,1912.99,3,Recent Regulars
+1684,5,50,1448.58,3,Recent Regulars
+1685,5,97,1564.27,3,Recent Regulars
+1686,1,94,1310.06,3,Recent Regulars
+1687,7,106,3605.83,0,Champions
+1688,29,36,966.62,1,Valuable but Cooling
+1689,2,121,2709.29,0,Champions
+1690,17,59,1505.04,1,Valuable but Cooling
+1691,2,50,2276.14,3,Recent Regulars
+1692,2,150,2015.18,0,Champions
+1693,2,164,8329.0,0,Champions
+1694,1,249,7989.86,0,Champions
+1695,2,160,1173.56,3,Recent Regulars
+1696,8,62,2634.26,3,Recent Regulars
+1697,14,42,948.26,1,Valuable but Cooling
+1698,10,38,1757.51,3,Recent Regulars
+1699,14,29,1047.39,1,Valuable but Cooling
+1700,35,33,1606.69,1,Valuable but Cooling
+1701,28,30,1389.28,1,Valuable but Cooling
+1702,56,30,1927.05,1,Valuable but Cooling
+1703,4,233,4646.33,0,Champions
+1704,2,46,400.83,3,Recent Regulars
+1705,3,176,1803.93,0,Champions
+1706,21,18,337.3,2,At-Risk Customers
+1707,3,744,6523.14,0,Champions
+1708,12,58,3566.25,1,Valuable but Cooling
+1709,5,86,2116.45,3,Recent Regulars
+1710,7,214,11947.2,0,Champions
+1711,67,11,662.49,2,At-Risk Customers
+1712,22,33,726.18,1,Valuable but Cooling
+1713,8,37,1733.81,3,Recent Regulars
+1714,59,9,264.72,2,At-Risk Customers
+1715,2,53,983.53,3,Recent Regulars
+1716,10,180,1936.22,0,Champions
+1717,1,88,1750.45,3,Recent Regulars
+1718,1,34,861.6899999999999,3,Recent Regulars
+1719,3,83,3398.46,0,Champions
+1720,8,142,5741.14,0,Champions
+1721,3,16,339.59000000000003,3,Recent Regulars
+1722,4,257,11135.81,0,Champions
+1723,32,82,4469.22,1,Valuable but Cooling
+1724,22,94,2622.98,1,Valuable but Cooling
+1725,1,19,826.74,3,Recent Regulars
+1726,1,182,7914.92,0,Champions
+1727,594,2,149.01,2,At-Risk Customers
+1728,6,21,1500.8300000000002,3,Recent Regulars
+1729,6,85,2905.66,3,Recent Regulars
+1730,5,167,3509.78,0,Champions
+1731,9,72,3436.39,1,Valuable but Cooling
+1732,9,98,3398.9,0,Champions
+1733,3,34,1487.3700000000001,3,Recent Regulars
+1734,35,19,161.78,2,At-Risk Customers
+1735,1,92,3900.17,0,Champions
+1736,82,22,374.48,2,At-Risk Customers
+1737,28,27,350.69,2,At-Risk Customers
+1738,32,62,1378.22,1,Valuable but Cooling
+1739,3,34,778.4,3,Recent Regulars
+1740,3,390,11929.7,0,Champions
+1741,17,15,158.99,2,At-Risk Customers
+1742,10,282,2140.1,0,Champions
+1743,10,43,1163.21,3,Recent Regulars
+1744,9,57,1086.12,3,Recent Regulars
+1745,7,125,2591.48,0,Champions
+1746,58,48,2176.16,1,Valuable but Cooling
+1747,10,90,3062.1,1,Valuable but Cooling
+1748,3,244,5153.53,0,Champions
+1749,8,122,4195.95,0,Champions
+1750,42,20,736.42,2,At-Risk Customers
+1751,3,141,4093.86,0,Champions
+1752,6,195,6587.11,0,Champions
+1753,1,456,2953.61,0,Champions
+1754,8,208,3927.59,0,Champions
+1755,18,31,1202.51,1,Valuable but Cooling
+1756,5,67,3341.29,3,Recent Regulars
+1757,258,10,253.11,2,At-Risk Customers
+1758,15,70,2039.43,1,Valuable but Cooling
+1759,6,218,4003.62,0,Champions
+1760,7,53,563.14,3,Recent Regulars
+1761,3,31,1844.31,3,Recent Regulars
+1762,1,344,15306.67,0,Champions
+1763,7,149,3918.37,0,Champions
+1764,5,134,11338.67,0,Champions
+1765,22,62,2948.01,1,Valuable but Cooling
+1766,5,38,460.68,3,Recent Regulars
+1767,2,483,9198.12,0,Champions
+1768,3,69,1522.47,3,Recent Regulars
+1769,1,156,7445.53,0,Champions
+1770,4,477,8585.13,0,Champions
+1771,63,11,532.2,2,At-Risk Customers
+1772,91,96,2451.88,1,Valuable but Cooling
+1773,9,91,3341.9,0,Champions
+1774,9,66,4976.41,0,Champions
+1775,1,210,9300.28,0,Champions
+1776,22,231,3711.28,0,Champions
+1777,1,75,1168.97,3,Recent Regulars
+1778,2,257,9296.85,0,Champions
+1779,9,109,3498.58,0,Champions
+1780,31,43,1412.93,1,Valuable but Cooling
+1781,19,93,3225.57,1,Valuable but Cooling
+1782,6,37,1738.3500000000001,3,Recent Regulars
+1783,10,91,4114.39,0,Champions
+1784,16,40,1980.6200000000001,1,Valuable but Cooling
+1785,2,75,1552.2,3,Recent Regulars
+1786,57,44,409.73,2,At-Risk Customers
+1787,20,61,1097.5,1,Valuable but Cooling
+1788,2,152,9068.53,0,Champions
+1789,33,22,293.19,2,At-Risk Customers
+1790,6,47,1978.83,3,Recent Regulars
+1791,3,140,2921.3,0,Champions
+1792,1,126,3135.33,0,Champions
+1793,5,63,1878.8999999999999,3,Recent Regulars
+1794,11,77,3570.73,1,Valuable but Cooling
+1795,2,1135,9548.84,0,Champions
+1796,8,60,2587.07,3,Recent Regulars
+1797,2,114,5513.29,0,Champions
+1798,12,42,2444.41,1,Valuable but Cooling
+1799,15,52,395.46999999999997,3,Recent Regulars
+1800,3,84,3660.2200000000003,0,Champions
+1801,6,64,753.74,3,Recent Regulars
+1802,20,52,4829.5,1,Valuable but Cooling
+1803,1,216,14409.26,0,Champions
+1804,1,309,10205.65,0,Champions
+1805,1,77,792.2,3,Recent Regulars
+1806,3,139,3979.6,0,Champions
+1807,7,212,7770.21,0,Champions
+1808,10,96,1822.33,3,Recent Regulars
+1809,10,61,1503.32,3,Recent Regulars
+1810,8,266,4020.59,0,Champions
+1811,32,16,852.5600000000001,2,At-Risk Customers
+1812,1,104,1942.99,3,Recent Regulars
+1813,20,4,233.45,2,At-Risk Customers
+1814,7,52,4093.66,3,Recent Regulars
+1815,4,89,4393.47,0,Champions
+1816,4,160,3810.05,0,Champions
+1817,1,48,1024.72,3,Recent Regulars
+1818,1,72,1331.43,3,Recent Regulars
+1819,6,68,1443.68,3,Recent Regulars
+1820,51,76,4206.68,1,Valuable but Cooling
+1821,9,128,4933.12,0,Champions
+1822,1,213,3515.44,0,Champions
+1823,1,376,12048.02,0,Champions
+1824,2,165,3109.86,0,Champions
+1825,119,43,1831.84,1,Valuable but Cooling
+1826,4,111,1994.47,3,Recent Regulars
+1827,6,41,682.23,3,Recent Regulars
+1828,142,86,5804.87,1,Valuable but Cooling
+1829,2,319,6606.2,0,Champions
+1830,643,1,39.440000000000005,2,At-Risk Customers
+1831,11,163,5482.24,0,Champions
+1832,9,55,1353.5,3,Recent Regulars
+1833,1,83,2965.91,0,Champions
+1834,53,134,3758.25,1,Valuable but Cooling
+1835,6,310,10969.36,0,Champions
+1836,11,93,2991.96,1,Valuable but Cooling
+1837,5,160,7490.87,0,Champions
+1838,28,33,1174.11,1,Valuable but Cooling
+1839,4,99,1719.4,3,Recent Regulars
+1840,156,37,335.66,2,At-Risk Customers
+1841,11,32,2396.63,3,Recent Regulars
+1842,7,19,905.9,3,Recent Regulars
+1843,30,42,770.15,1,Valuable but Cooling
+1844,4,83,1507.46,3,Recent Regulars
+1845,1,151,12632.32,0,Champions
+1846,4,25,687.89,3,Recent Regulars
+1847,3,103,2675.71,0,Champions
+1848,6,110,10837.76,0,Champions
+1849,3,162,2625.26,0,Champions
+1850,6,223,6880.26,0,Champions
+1851,16,41,1250.55,1,Valuable but Cooling
+1852,18,317,9782.77,0,Champions
+1853,10,35,274.39,2,At-Risk Customers
+1854,3,267,7626.7300000000005,0,Champions
+1855,26,11,251.95,2,At-Risk Customers
+1856,1,457,4517.44,0,Champions
+1857,1,82,1743.81,3,Recent Regulars
+1858,9,67,2830.47,3,Recent Regulars
+1859,5,35,1791.03,3,Recent Regulars
+1860,83,58,750.83,1,Valuable but Cooling
+1861,1,122,1858.2,0,Champions
+1862,28,141,2194.7400000000002,1,Valuable but Cooling
+1863,243,14,411.45,2,At-Risk Customers
+1864,2,163,16907.08,0,Champions
+1865,5,161,6647.58,0,Champions
+1866,62,15,159.05,2,At-Risk Customers
+1867,12,74,1081.51,1,Valuable but Cooling
+1868,2,39,700.96,3,Recent Regulars
+1869,1,119,3579.78,0,Champions
+1870,24,37,302.5,2,At-Risk Customers
+1871,11,20,547.41,2,At-Risk Customers
+1872,3,161,3724.4500000000003,0,Champions
+1873,5,266,5677.82,0,Champions
+1874,20,33,819.3000000000001,1,Valuable but Cooling
+1875,19,44,906.65,1,Valuable but Cooling
+1876,9,5,86.19,2,At-Risk Customers
+1877,3,64,1975.04,3,Recent Regulars
+1878,10,35,622.64,3,Recent Regulars
+1879,4,272,4848.7,0,Champions
+1880,21,36,773.39,1,Valuable but Cooling
+1881,11,119,2912.96,1,Valuable but Cooling
+1882,33,26,405.54,2,At-Risk Customers
+1883,7,126,2454.53,0,Champions
+1884,1,30,590.73,3,Recent Regulars
+1885,1,13,265.35,3,Recent Regulars
+1886,34,30,404.75,2,At-Risk Customers
+1887,13,87,871.88,1,Valuable but Cooling
+1888,189,11,135.61,2,At-Risk Customers
+1889,18,46,1785.84,1,Valuable but Cooling
+1890,1,51,1928.45,3,Recent Regulars
+1891,3,38,1339.96,3,Recent Regulars
+1892,1,306,5528.61,0,Champions
+1893,9,18,373.71,2,At-Risk Customers
+1894,54,42,2327.97,1,Valuable but Cooling
+1895,38,49,916.07,1,Valuable but Cooling
+1896,2,128,3377.34,0,Champions
+1897,643,1,19.58,2,At-Risk Customers
+1898,1,48,709.71,3,Recent Regulars
+1899,7,69,11211.460000000001,0,Champions
+1900,5,56,8536.64,0,Champions
+1901,1,838,11391.59,0,Champions
+1902,21,21,1636.35,1,Valuable but Cooling
+1903,34,40,1144.44,1,Valuable but Cooling
+1904,42,27,304.26,2,At-Risk Customers
+1905,14,80,1766.41,1,Valuable but Cooling
+1906,2,163,8626.56,0,Champions
+1907,1,379,8858.75,0,Champions
+1908,124,38,714.3100000000001,2,At-Risk Customers
+1909,39,22,546.99,2,At-Risk Customers
+1910,98,26,741.08,2,At-Risk Customers
+1911,8,124,1601.27,3,Recent Regulars
+1912,19,96,2248.95,1,Valuable but Cooling
+1913,4,49,895.76,3,Recent Regulars
+1914,1,156,4075.9500000000003,0,Champions
+1915,4,27,485.8,3,Recent Regulars
+1916,20,150,2881.7,1,Valuable but Cooling
+1917,1,290,6749.56,0,Champions
+1918,8,69,2994.64,3,Recent Regulars
+1919,2,99,4106.41,0,Champions
+1920,1,93,1921.1000000000001,3,Recent Regulars
+1921,65,102,1448.77,1,Valuable but Cooling
+1922,6,113,3095.94,0,Champions
+1923,6,167,4852.16,0,Champions
+1924,4,220,6209.72,0,Champions
+1925,44,118,3018.45,1,Valuable but Cooling
+1926,11,71,2117.32,1,Valuable but Cooling
+1927,21,98,5091.29,1,Valuable but Cooling
+1928,3,114,2298.73,0,Champions
+1929,7,62,4392.83,3,Recent Regulars
+1930,21,182,2672.1,1,Valuable but Cooling
+1931,29,101,2208.28,1,Valuable but Cooling
+1932,2,74,2678.03,3,Recent Regulars
+1933,5,85,2177.23,3,Recent Regulars
+1934,163,15,542.87,2,At-Risk Customers
+1935,1,176,12085.8,0,Champions
+1936,4,461,5016.11,0,Champions
+1937,8,158,6710.09,0,Champions
+1938,7,28,1032.95,3,Recent Regulars
+1939,6,75,3784.07,0,Champions
+1940,8,75,2388.72,3,Recent Regulars
+1941,2,135,742.85,3,Recent Regulars
+1942,5,150,3135.06,0,Champions
+1943,7,212,5105.5199999999995,0,Champions
+1944,7,179,10860.94,0,Champions
+1945,24,19,1019.57,1,Valuable but Cooling
+1946,13,49,3312.46,1,Valuable but Cooling
+1947,2,90,7191.6,0,Champions
+1948,1,83,1582.44,3,Recent Regulars
+1949,6,54,1658.96,3,Recent Regulars
+1950,36,31,736.74,1,Valuable but Cooling
+1951,35,18,556.48,2,At-Risk Customers
+1952,7,36,1003.87,3,Recent Regulars
+1953,6,113,2720.91,0,Champions
+1954,29,143,1965.65,1,Valuable but Cooling
+1955,8,156,7598.3,0,Champions
+1956,7,60,2172.8,3,Recent Regulars
+1957,28,44,1975.23,1,Valuable but Cooling
+1958,3,35,1015.5600000000001,3,Recent Regulars
+1959,41,104,5555.9400000000005,1,Valuable but Cooling
+1960,3,93,2635.03,3,Recent Regulars
+1961,19,91,1632.88,1,Valuable but Cooling
+1962,2,132,3503.3,0,Champions
+1963,8,50,2524.2,3,Recent Regulars
+1964,4,68,1966.47,3,Recent Regulars
+1965,4,163,4104.36,0,Champions
+1966,1,126,5297.64,0,Champions
+1967,7,73,1801.3799999999999,3,Recent Regulars
+1968,2,89,2479.97,3,Recent Regulars
+1969,1,230,2242.82,0,Champions
+1970,4,69,1088.58,3,Recent Regulars
+1971,16,153,5290.14,0,Champions
+1972,7,120,2431.23,0,Champions
+1973,126,130,1681.7,1,Valuable but Cooling
+1974,202,198,5238.87,1,Valuable but Cooling
+1975,2,363,17339.96,0,Champions
+1976,2,165,3539.07,0,Champions
+1977,72,30,348.0,2,At-Risk Customers
+1978,2,89,1454.43,3,Recent Regulars
+1979,4,101,1121.3700000000001,3,Recent Regulars
+1980,50,54,4438.75,1,Valuable but Cooling
+1981,1,100,1437.33,3,Recent Regulars
+1982,1,160,4213.85,0,Champions
+1983,8,38,2494.6,3,Recent Regulars
+1984,67,3,38.94,2,At-Risk Customers
+1985,1,156,8581.81,0,Champions
+1986,75,12,228.06,2,At-Risk Customers
+1987,5,76,1963.54,3,Recent Regulars
+1988,8,183,7833.63,0,Champions
+1989,5,152,3016.22,0,Champions
+1990,10,130,4510.87,0,Champions
+1991,3,45,320.14,3,Recent Regulars
+1992,28,30,528.05,2,At-Risk Customers
+1993,20,82,1356.83,1,Valuable but Cooling
+1994,1,43,1068.0,3,Recent Regulars
+1995,1,153,15306.83,0,Champions
+1996,4,119,2653.35,0,Champions
+1997,1,66,4290.88,0,Champions
+1998,5,331,2383.54,0,Champions
+1999,1,52,783.33,3,Recent Regulars
+2000,1,61,549.79,3,Recent Regulars
+2001,21,35,1213.28,1,Valuable but Cooling
+2002,25,63,2464.12,1,Valuable but Cooling
+2003,5,42,1967.98,3,Recent Regulars
+2004,1,248,9871.59,0,Champions
+2005,7,52,1436.69,3,Recent Regulars
+2006,1,110,4812.64,0,Champions
+2007,2,189,8816.76,0,Champions
+2008,12,68,2299.4,1,Valuable but Cooling
+2009,396,33,1500.98,1,Valuable but Cooling
+2010,4,58,1604.48,3,Recent Regulars
+2011,2,104,1366.34,3,Recent Regulars
+2012,7,302,8474.23,0,Champions
+2013,96,93,1178.3700000000001,1,Valuable but Cooling
+2014,8,44,1487.89,3,Recent Regulars
+2015,7,122,6592.38,0,Champions
+2016,12,125,1724.28,1,Valuable but Cooling
+2017,1,169,7105.62,0,Champions
+2018,4,147,4036.65,0,Champions
+2019,1,337,13048.32,0,Champions
+2020,7,252,8455.460000000001,0,Champions
+2021,9,77,1392.24,3,Recent Regulars
+2022,10,86,7843.97,0,Champions
+2023,2,109,1793.75,3,Recent Regulars
+2024,3,98,4896.65,0,Champions
+2025,27,33,1119.14,1,Valuable but Cooling
+2026,37,18,1175.55,1,Valuable but Cooling
+2027,22,132,1914.78,1,Valuable but Cooling
+2028,19,91,1982.63,1,Valuable but Cooling
+2029,41,45,1686.4,1,Valuable but Cooling
+2030,2,90,2606.96,3,Recent Regulars
+2031,29,15,305.03999999999996,2,At-Risk Customers
+2032,8,66,1273.78,3,Recent Regulars
+2033,1,109,2506.89,0,Champions
+2034,1,140,3105.36,0,Champions
+2035,70,68,1081.27,1,Valuable but Cooling
+2036,3,49,4059.5099999999998,3,Recent Regulars
+2037,14,97,1742.3700000000001,1,Valuable but Cooling
+2038,9,59,1485.8,3,Recent Regulars
+2039,2,74,2258.96,3,Recent Regulars
+2040,13,422,2871.89,0,Champions
+2041,2,152,6390.19,0,Champions
+2042,29,29,4786.37,1,Valuable but Cooling
+2043,8,64,1638.29,3,Recent Regulars
+2044,63,48,1000.84,1,Valuable but Cooling
+2045,115,19,309.64,2,At-Risk Customers
+2046,22,48,637.8,1,Valuable but Cooling
+2047,15,119,4784.95,0,Champions
+2048,27,47,1533.61,1,Valuable but Cooling
+2049,3,35,980.48,3,Recent Regulars
+2050,4,160,5193.22,0,Champions
+2051,250,288,4910.29,1,Valuable but Cooling
+2052,121,6,131.83,2,At-Risk Customers
+2053,12,165,3348.34,0,Champions
+2054,5,26,217.60000000000002,3,Recent Regulars
+2055,1,133,2408.39,0,Champions
+2056,1,108,2440.71,0,Champions
+2057,1,125,3137.91,0,Champions
+2058,1,167,5960.89,0,Champions
+2059,2,54,2359.12,3,Recent Regulars
+2060,16,32,629.9,1,Valuable but Cooling
+2061,67,18,211.72,2,At-Risk Customers
+2062,6,217,5336.24,0,Champions
+2063,6,81,2589.88,3,Recent Regulars
+2064,1,271,5419.1,0,Champions
+2065,3,89,3239.03,0,Champions
+2066,2,112,2130.58,0,Champions
+2067,10,6,120.01,2,At-Risk Customers
+2068,16,108,2532.7,1,Valuable but Cooling
+2069,18,89,2065.87,1,Valuable but Cooling
+2070,2,635,9063.93,0,Champions
+2071,1,210,1732.72,0,Champions
+2072,36,12,273.28,2,At-Risk Customers
+2073,129,72,1693.73,1,Valuable but Cooling
+2074,67,29,675.87,2,At-Risk Customers
+2075,1,154,4712.16,0,Champions
+2076,7,252,8258.54,0,Champions
+2077,14,109,1835.18,1,Valuable but Cooling
+2078,2,92,2318.17,3,Recent Regulars
+2079,14,119,4802.87,0,Champions
+2080,1,122,5689.19,0,Champions
+2081,33,33,921.84,1,Valuable but Cooling
+2082,1,190,5068.62,0,Champions
+2083,1,383,8224.49,0,Champions
+2084,7,131,2930.4,0,Champions
+2085,1,359,12858.23,0,Champions
+2086,2,574,6224.69,0,Champions
+2087,8,227,7818.14,0,Champions
+2088,1,109,4895.41,0,Champions
+2089,18,34,159.96,2,At-Risk Customers
+2090,15,56,1199.48,1,Valuable but Cooling
+2091,20,15,834.56,2,At-Risk Customers
+2092,153,122,2234.75,1,Valuable but Cooling
+2093,51,18,485.98,2,At-Risk Customers
+2094,4,75,3053.52,3,Recent Regulars
+2095,1,164,3781.89,0,Champions
+2096,121,26,1301.65,1,Valuable but Cooling
+2097,67,199,8804.99,1,Valuable but Cooling
+2098,80,13,681.71,2,At-Risk Customers
+2099,16,53,691.3,1,Valuable but Cooling
+2100,3,71,3165.2400000000002,3,Recent Regulars
+2101,9,10,420.02,2,At-Risk Customers
+2102,1,105,3613.66,0,Champions
+2103,7,30,361.01,3,Recent Regulars
+2104,83,29,494.57000000000005,2,At-Risk Customers
+2105,11,35,898.92,3,Recent Regulars
+2106,220,52,2805.03,1,Valuable but Cooling
+2107,15,87,3408.06,1,Valuable but Cooling
+2108,4,131,1827.24,3,Recent Regulars
+2109,3,120,2507.49,0,Champions
+2110,8,222,12429.47,0,Champions
+2111,25,122,2322.57,1,Valuable but Cooling
+2112,1,131,5044.59,0,Champions
+2113,22,60,1576.5800000000002,1,Valuable but Cooling
+2114,24,156,3122.07,1,Valuable but Cooling
+2115,1,320,14605.56,0,Champions
+2116,4,221,12209.24,0,Champions
+2117,5,63,1022.25,3,Recent Regulars
+2118,4,29,1105.44,3,Recent Regulars
+2119,8,44,2115.08,3,Recent Regulars
+2120,15,72,1640.2,1,Valuable but Cooling
+2121,2,142,5534.92,0,Champions
+2122,1,12,438.84000000000003,3,Recent Regulars
+2123,2,59,4315.8,3,Recent Regulars
+2124,1,240,7693.63,0,Champions
+2125,1,113,4830.44,0,Champions
+2126,13,125,4713.85,0,Champions
+2127,5,26,1452.27,3,Recent Regulars
+2128,16,82,1873.46,1,Valuable but Cooling
+2129,5,163,7151.4,0,Champions
+2130,7,97,5862.57,0,Champions
+2131,30,139,3977.12,1,Valuable but Cooling
+2132,13,41,575.87,3,Recent Regulars
+2133,3,141,6759.92,0,Champions
+2134,1,86,9090.36,0,Champions
+2135,35,45,778.29,1,Valuable but Cooling
+2136,8,18,1546.44,3,Recent Regulars
+2137,27,186,2970.14,1,Valuable but Cooling
+2138,23,66,1859.68,1,Valuable but Cooling
+2139,1,366,4630.2,0,Champions
+2140,60,51,1550.49,1,Valuable but Cooling
+2141,3,90,5227.68,0,Champions
+2142,1,104,7628.37,0,Champions
+2143,102,9,298.65000000000003,2,At-Risk Customers
+2144,70,49,2264.13,1,Valuable but Cooling
+2145,28,38,1089.6200000000001,1,Valuable but Cooling
+2146,18,56,1687.25,1,Valuable but Cooling
+2147,2,96,5690.56,0,Champions
+2148,1,123,3246.82,0,Champions
+2149,10,109,3673.42,0,Champions
+2150,121,8,69.32,2,At-Risk Customers
+2151,13,41,834.27,3,Recent Regulars
+2152,85,25,156.55,2,At-Risk Customers
+2153,18,41,933.03,1,Valuable but Cooling
+2154,3,119,2510.71,0,Champions
+2155,42,11,313.83000000000004,2,At-Risk Customers
+2156,9,107,5845.81,0,Champions
+2157,114,12,383.7,2,At-Risk Customers
+2158,3,131,3116.83,0,Champions
+2159,4,120,2018.95,3,Recent Regulars
+2160,20,57,740.82,1,Valuable but Cooling
+2161,13,40,2064.11,1,Valuable but Cooling
+2162,2,179,13578.65,0,Champions
+2163,38,14,356.09999999999997,2,At-Risk Customers
+2164,312,40,1581.39,1,Valuable but Cooling
+2165,71,11,182.10000000000002,2,At-Risk Customers
+2166,205,30,84.21000000000001,2,At-Risk Customers
+2167,21,75,1709.61,1,Valuable but Cooling
+2168,1,197,5598.55,0,Champions
+2169,17,40,857.96,1,Valuable but Cooling
+2170,1,266,6179.29,0,Champions
+2171,3,107,3974.96,0,Champions
+2172,7,99,2404.22,3,Recent Regulars
+2173,2,86,2171.52,3,Recent Regulars
+2174,32,39,631.62,1,Valuable but Cooling
+2175,41,17,608.72,2,At-Risk Customers
+2176,30,195,2594.52,1,Valuable but Cooling
+2177,104,3,133.5,2,At-Risk Customers
+2178,102,151,3672.38,1,Valuable but Cooling
+2179,1,46,1452.29,3,Recent Regulars
+2180,84,44,936.39,1,Valuable but Cooling
+2181,10,55,3057.4700000000003,1,Valuable but Cooling
+2182,13,85,1528.02,1,Valuable but Cooling
+2183,6,171,4074.82,0,Champions
+2184,5,259,5094.8,0,Champions
+2185,2,105,8516.08,0,Champions
+2186,10,112,5467.58,0,Champions
+2187,21,46,2660.63,1,Valuable but Cooling
+2188,3,129,3915.54,0,Champions
+2189,4,91,1334.92,3,Recent Regulars
+2190,1,225,9500.65,0,Champions
+2191,1,15,780.92,3,Recent Regulars
+2192,5,29,491.28,3,Recent Regulars
+2193,9,116,9150.460000000001,0,Champions
+2194,1,404,7160.29,0,Champions
+2195,7,84,1143.6200000000001,3,Recent Regulars
+2196,3,65,1149.55,3,Recent Regulars
+2197,11,48,670.13,3,Recent Regulars
+2198,1,403,7159.49,0,Champions
+2199,6,155,5609.37,0,Champions
+2200,6,196,8618.11,0,Champions
+2201,640,2,27.509999999999998,2,At-Risk Customers
+2202,1,18,319.9,3,Recent Regulars
+2203,1,103,5239.09,0,Champions
+2204,11,189,2638.55,0,Champions
+2205,4,107,1975.76,3,Recent Regulars
+2206,1,41,502.25,3,Recent Regulars
+2207,18,364,4833.81,0,Champions
+2208,14,193,9450.130000000001,0,Champions
+2209,3,232,6995.68,0,Champions
+2210,64,34,1727.97,1,Valuable but Cooling
+2211,5,77,2290.62,3,Recent Regulars
+2212,33,46,251.33,2,At-Risk Customers
+2213,20,55,3499.31,1,Valuable but Cooling
+2214,1,15,450.87,3,Recent Regulars
+2215,1,132,2402.11,0,Champions
+2216,3,34,454.57,3,Recent Regulars
+2217,4,192,4405.17,0,Champions
+2218,3,19,975.25,3,Recent Regulars
+2219,10,23,1077.42,3,Recent Regulars
+2220,68,12,215.58,2,At-Risk Customers
+2221,3,113,2298.4,0,Champions
+2222,5,40,3023.88,3,Recent Regulars
+2223,31,298,2056.32,1,Valuable but Cooling
+2224,1,106,3979.1,0,Champions
+2225,1,98,3346.52,0,Champions
+2226,2,640,8855.29,0,Champions
+2227,62,173,4878.0,1,Valuable but Cooling
+2228,12,202,5297.7,0,Champions
+2229,5,56,2414.4900000000002,3,Recent Regulars
+2230,50,38,1195.65,1,Valuable but Cooling
+2231,3,94,4276.38,0,Champions
+2232,2,37,1109.31,3,Recent Regulars
+2233,3,273,8414.63,0,Champions
+2234,2,189,7945.14,0,Champions
+2235,7,89,3824.07,0,Champions
+2236,24,219,2872.53,1,Valuable but Cooling
+2237,7,158,4900.04,0,Champions
+2238,9,179,2472.38,0,Champions
+2239,21,43,1776.4299999999998,1,Valuable but Cooling
+2240,1,216,5371.67,0,Champions
+2241,1,78,1497.82,3,Recent Regulars
+2242,3,118,1238.07,3,Recent Regulars
+2243,5,44,4017.71,3,Recent Regulars
+2244,1,322,5379.42,0,Champions
+2245,1,178,4609.47,0,Champions
+2246,260,5,321.35,2,At-Risk Customers
+2247,1,90,3991.37,0,Champions
+2248,9,26,937.23,3,Recent Regulars
+2249,407,3,181.51,2,At-Risk Customers
+2250,3,68,2315.52,3,Recent Regulars
+2251,50,26,2019.54,1,Valuable but Cooling
+2252,1,346,9440.33,0,Champions
+2253,20,28,450.33,2,At-Risk Customers
+2254,143,80,1270.3500000000001,1,Valuable but Cooling
+2255,63,21,570.03,2,At-Risk Customers
+2256,2,30,1492.76,3,Recent Regulars
+2257,8,74,791.54,3,Recent Regulars
+2258,1,48,1568.84,3,Recent Regulars
+2259,1,16,589.1700000000001,3,Recent Regulars
+2260,5,133,7449.4400000000005,0,Champions
+2261,1,427,13360.89,0,Champions
+2262,1,151,1487.71,0,Champions
+2263,3,458,5761.47,0,Champions
+2264,2,315,16950.29,0,Champions
+2265,640,3,77.44,2,At-Risk Customers
+2266,8,148,8751.87,0,Champions
+2267,3,67,2303.15,3,Recent Regulars
+2268,54,23,668.96,2,At-Risk Customers
+2269,5,209,3262.1,0,Champions
+2270,1,312,4720.42,0,Champions
+2271,34,46,359.18,2,At-Risk Customers
+2272,13,70,2227.03,1,Valuable but Cooling
+2273,8,52,1594.1200000000001,3,Recent Regulars
+2274,3,70,6967.71,0,Champions
+2275,6,134,2734.75,0,Champions
+2276,38,31,1007.97,1,Valuable but Cooling
+2277,4,126,3870.16,0,Champions
+2278,25,46,1160.57,1,Valuable but Cooling
+2279,7,59,964.97,3,Recent Regulars
+2280,4,228,12211.64,0,Champions
+2281,2,102,4968.15,0,Champions
+2282,3,79,1088.89,3,Recent Regulars
+2283,21,17,1386.8700000000001,1,Valuable but Cooling
+2284,2,264,17092.69,0,Champions
+2285,14,73,2057.9,1,Valuable but Cooling
+2286,53,26,989.26,1,Valuable but Cooling
+2287,10,33,833.51,3,Recent Regulars
+2288,1,156,2085.26,0,Champions
+2289,3,88,2409.23,3,Recent Regulars
+2290,18,68,915.42,1,Valuable but Cooling
+2291,47,55,439.03000000000003,1,Valuable but Cooling
+2292,2,116,1334.69,3,Recent Regulars
+2293,2,45,2462.95,3,Recent Regulars
+2294,30,185,8373.960000000001,0,Champions
+2295,21,98,7994.85,1,Valuable but Cooling
+2296,1,230,13397.54,0,Champions
+2297,14,45,698.36,3,Recent Regulars
+2298,1,83,2698.48,3,Recent Regulars
+2299,6,62,2053.14,3,Recent Regulars
+2300,6,118,4611.4,0,Champions
+2301,2,137,4650.23,0,Champions
+2302,29,74,1953.74,1,Valuable but Cooling
+2303,6,66,2150.8,3,Recent Regulars
+2304,138,87,238.8,2,At-Risk Customers
+2305,8,122,6239.6900000000005,0,Champions
+2306,371,8,62.06,2,At-Risk Customers
+2307,3,178,5992.61,0,Champions
+2308,14,31,582.45,3,Recent Regulars
+2309,76,12,270.01,2,At-Risk Customers
+2310,7,74,1388.19,3,Recent Regulars
+2311,4,58,1830.83,3,Recent Regulars
+2312,3,320,14635.16,0,Champions
+2313,1,11,105.69,2,At-Risk Customers
+2314,17,86,5059.8,1,Valuable but Cooling
+2315,1,8,266.1,3,Recent Regulars
+2316,135,27,751.89,2,At-Risk Customers
+2317,7,150,13900.65,0,Champions
+2318,90,364,10669.73,1,Valuable but Cooling
+2319,3,117,1148.68,3,Recent Regulars
+2320,26,25,369.59000000000003,2,At-Risk Customers
+2321,5,18,334.94,3,Recent Regulars
+2322,1,323,23593.02,0,Champions
+2323,28,29,781.34,1,Valuable but Cooling
+2324,9,145,2592.7,0,Champions
+2325,15,3,106.36,2,At-Risk Customers
+2326,4,47,1312.8700000000001,3,Recent Regulars
+2327,23,43,1250.3799999999999,1,Valuable but Cooling
+2328,3,165,14139.09,0,Champions
+2329,131,100,2712.62,1,Valuable but Cooling
+2330,3,73,5539.85,0,Champions
+2331,15,101,5827.66,0,Champions
+2332,62,16,353.8,2,At-Risk Customers
+2333,3,24,245.06,3,Recent Regulars
+2334,1,359,11935.13,0,Champions
+2335,7,52,1937.0,3,Recent Regulars
+2336,13,76,2378.2,1,Valuable but Cooling
+2337,3,1207,11686.82,0,Champions
+2338,1,69,2094.81,3,Recent Regulars
+2339,26,10,262.41999999999996,2,At-Risk Customers
+2340,6,149,2995.07,0,Champions
+2341,15,306,5678.86,0,Champions
+2342,1,192,5899.28,0,Champions
+2343,3,240,4603.05,0,Champions
+2344,1,57,2661.4,3,Recent Regulars
+2345,14,109,4269.71,1,Valuable but Cooling
+2346,3,30,1219.18,3,Recent Regulars
+2347,1,93,3206.05,0,Champions
+2348,55,56,278.87,2,At-Risk Customers
+2349,8,72,2098.23,3,Recent Regulars
+2350,3,46,1910.75,3,Recent Regulars
+2351,4,322,16567.34,0,Champions
+2352,33,43,1255.85,1,Valuable but Cooling
+2353,24,14,405.4,2,At-Risk Customers
+2354,8,80,4821.89,0,Champions
+2355,58,16,111.34,2,At-Risk Customers
+2356,95,98,2152.91,1,Valuable but Cooling
+2357,50,29,234.37,2,At-Risk Customers
+2358,4,76,2422.25,3,Recent Regulars
+2359,15,173,2798.08,0,Champions
+2360,4,341,9382.58,0,Champions
+2361,15,90,4526.72,1,Valuable but Cooling
+2362,50,41,515.79,2,At-Risk Customers
+2363,33,43,843.76,1,Valuable but Cooling
+2364,6,117,7406.26,0,Champions
+2365,487,7,311.9,2,At-Risk Customers
+2366,7,168,5449.91,0,Champions
+2367,4,141,4492.43,0,Champions
+2368,39,27,1377.69,1,Valuable but Cooling
+2369,3,76,2707.79,3,Recent Regulars
+2370,3,168,5146.18,0,Champions
+2371,6,98,2138.71,3,Recent Regulars
+2372,6,71,3179.61,3,Recent Regulars
+2373,15,124,2573.71,1,Valuable but Cooling
+2374,29,81,6184.15,1,Valuable but Cooling
+2375,7,114,2817.55,0,Champions
+2376,4,183,3911.76,0,Champions
+2377,2,82,1107.54,3,Recent Regulars
+2378,2,153,8280.43,0,Champions
+2379,19,56,1323.34,1,Valuable but Cooling
+2380,4,177,4918.19,0,Champions
+2381,5,92,2156.94,3,Recent Regulars
+2382,110,36,822.64,1,Valuable but Cooling
+2383,63,18,550.14,2,At-Risk Customers
+2384,4,19,801.41,3,Recent Regulars
+2385,3,306,6153.81,0,Champions
+2386,6,51,1052.96,3,Recent Regulars
+2387,12,32,838.8000000000001,3,Recent Regulars
+2388,3,63,1697.52,3,Recent Regulars
+2389,24,61,1479.44,1,Valuable but Cooling
+2390,88,47,1037.55,1,Valuable but Cooling
+2391,105,54,622.92,1,Valuable but Cooling
+2392,2,39,1428.9,3,Recent Regulars
+2393,4,60,4037.79,3,Recent Regulars
+2394,10,84,1538.01,3,Recent Regulars
+2395,17,227,5243.31,0,Champions
+2396,70,17,550.48,2,At-Risk Customers
+2397,8,35,1094.55,3,Recent Regulars
+2398,67,75,2020.5,1,Valuable but Cooling
+2399,29,10,188.49,2,At-Risk Customers
+2400,1,387,14540.83,0,Champions
+2401,11,66,724.75,3,Recent Regulars
+2402,1,36,1086.4,3,Recent Regulars
+2403,110,10,118.69,2,At-Risk Customers
+2404,20,18,559.76,2,At-Risk Customers
+2405,6,151,3421.9,0,Champions
+2406,17,138,4849.96,0,Champions
+2407,3,178,6613.52,0,Champions
+2408,20,26,2106.87,1,Valuable but Cooling
+2409,8,8,904.25,2,At-Risk Customers
+2410,19,62,2628.72,1,Valuable but Cooling
+2411,9,76,2019.25,3,Recent Regulars
+2412,2,279,12736.49,0,Champions
+2413,94,16,301.40999999999997,2,At-Risk Customers
+2414,112,6,178.68,2,At-Risk Customers
+2415,5,126,1676.34,3,Recent Regulars
+2416,1,110,4417.4800000000005,0,Champions
+2417,6,9,196.11,2,At-Risk Customers
+2418,5,112,1572.61,3,Recent Regulars
+2419,20,65,1199.3700000000001,1,Valuable but Cooling
+2420,46,101,4579.47,1,Valuable but Cooling
+2421,7,81,8656.89,0,Champions
+2422,271,5,367.77,2,At-Risk Customers
+2423,1,59,2810.85,3,Recent Regulars
+2424,2,113,4122.83,0,Champions
+2425,2,119,4324.43,0,Champions
+2426,9,115,2432.89,0,Champions
+2427,2,344,8662.960000000001,0,Champions
+2428,10,19,323.27,2,At-Risk Customers
+2429,9,66,1799.66,3,Recent Regulars
+2430,57,60,1880.4,1,Valuable but Cooling
+2431,13,43,978.85,3,Recent Regulars
+2432,3,238,4929.62,0,Champions
+2433,94,30,609.75,2,At-Risk Customers
+2434,40,23,771.51,2,At-Risk Customers
+2435,9,45,3300.25,3,Recent Regulars
+2436,116,15,965.18,2,At-Risk Customers
+2437,13,74,4833.650000000001,1,Valuable but Cooling
+2438,1,184,3061.19,0,Champions
+2439,6,72,589.88,3,Recent Regulars
+2440,1,139,2551.67,0,Champions
+2441,10,98,1168.15,3,Recent Regulars
+2442,21,36,624.33,1,Valuable but Cooling
+2443,259,151,4013.61,1,Valuable but Cooling
+2444,3,6,69.94,2,At-Risk Customers
+2445,2,217,6505.36,0,Champions
+2446,5,189,6422.4800000000005,0,Champions
+2447,5,130,7515.45,0,Champions
+2448,7,203,8911.47,0,Champions
+2449,1,288,10803.13,0,Champions
+2450,14,84,2977.51,1,Valuable but Cooling
+2451,5,192,8154.93,0,Champions
+2452,2,145,3060.36,0,Champions
+2453,7,110,4540.13,0,Champions
+2454,8,30,392.87,3,Recent Regulars
+2455,2,109,5330.19,0,Champions
+2456,10,76,1271.24,3,Recent Regulars
+2457,33,77,1513.02,1,Valuable but Cooling
+2458,3,56,1118.33,3,Recent Regulars
+2459,8,967,20513.24,0,Champions
+2460,1,30,966.05,3,Recent Regulars
+2461,14,22,1051.1,3,Recent Regulars
+2462,2,187,11444.62,0,Champions
+2463,217,12,158.42,2,At-Risk Customers
+2464,17,51,1117.98,1,Valuable but Cooling
+2465,26,165,2085.29,1,Valuable but Cooling
+2466,2,99,2581.82,0,Champions
+2467,3,396,12413.65,0,Champions
+2468,50,90,2496.44,1,Valuable but Cooling
+2469,19,37,660.92,1,Valuable but Cooling
+2470,22,90,996.07,1,Valuable but Cooling
+2471,1,51,947.61,3,Recent Regulars
+2472,6,41,1219.81,3,Recent Regulars
+2473,109,9,330.68,2,At-Risk Customers
+2474,22,49,492.40999999999997,1,Valuable but Cooling
+2475,27,124,5028.6,1,Valuable but Cooling
+2476,231,14,403.26,2,At-Risk Customers
+2477,22,40,1860.02,1,Valuable but Cooling
+2478,6,146,3349.57,0,Champions
+2479,6,136,14199.12,0,Champions
+2480,25,29,1709.05,1,Valuable but Cooling
+2481,2,148,5358.27,0,Champions
+2482,30,71,2721.93,1,Valuable but Cooling
+2483,4,83,1760.1100000000001,3,Recent Regulars
+2484,5,156,7822.64,0,Champions
+2485,6,82,1502.2,3,Recent Regulars
+2486,1,83,3257.03,0,Champions
+2487,26,26,590.31,2,At-Risk Customers
+2488,8,119,6280.76,0,Champions
+2489,10,139,9010.83,0,Champions
+2490,16,33,698.61,1,Valuable but Cooling
+2491,142,60,942.49,1,Valuable but Cooling
+2492,2,133,2854.75,0,Champions
+2493,169,111,2588.73,1,Valuable but Cooling
+2494,10,35,2101.54,3,Recent Regulars
+2495,68,20,209.0,2,At-Risk Customers
+2496,29,63,4288.06,1,Valuable but Cooling
+2497,12,221,7095.14,0,Champions
+2498,2,172,2601.6,0,Champions
+2499,3,90,3390.52,0,Champions
+2500,4,113,5389.55,0,Champions

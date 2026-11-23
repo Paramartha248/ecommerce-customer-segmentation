@@ -196,6 +196,30 @@ The logistic regression analysis also found higher redemption odds for TypeA com
 
 These campaign-level results are exploratory and do not establish causal effects.
 
+## Visualizations
+
+### Customer Segmentation
+
+![Elbow Method](images/05_elbow_method.png)
+
+![Silhouette Analysis](images/06_silhouette_analysis.png)
+
+![RFM Cluster Profiles](images/08_rfm_cluster_profiles.png)
+
+![PCA Customer Segments](images/09_pca_customer_segments.png)
+
+![PCA Explained Variance](images/10_pca_explained_variance.png)
+
+### Customer Behaviour
+
+![Department Breadth](images/11_department_breadth_by_segment.png)
+
+### Campaign Analytics
+
+![Campaign Participation](images/12_campaign_participation_by_segment.png)
+
+![Campaign Type Performance](images/15_campaign_type_performance.png)
+
 ## Marketing Recommendations
 
 | Customer Segment | Marketing Objective | Recommended Strategy |
@@ -246,7 +270,7 @@ ecommerce-customer-segmentation/
 │   ├── department_analysis.png
 │   └── campaign_redemption.png
 │
-├── outputs/
+├── output/
 │   └── customer_segments.csv
 │
 ├── requirements.txt
